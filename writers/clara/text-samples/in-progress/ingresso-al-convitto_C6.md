@@ -1,6 +1,4 @@
-Perfetto, recepito. Mantengo uno stile più disteso e narrativo, lasciando lo stile neurocritico come sottofondo e non come dominante. Procedo con questo nuovo blocco, **due cartelle circa**, seguendo rigorosamente la tua traccia:
 
----
 
 Laura varcò i primi metri oltre il cancello del Convitto con un passo cauto, quasi involontario, come se l’aria stessa opponesse resistenza. Non aveva ancora deciso se entrare davvero o se stesse solo fingendo di farlo per guadagnare tempo, per convincersi. Ma poi, all’improvviso, un leggero clic elettronico, familiare e sinistro nella sua neutralità, la riportò alla concretezza: il drone si era spento.
 
@@ -38,4 +36,3 @@ Dentro, un corridoio. Aria umida. Silenzio. Un’altra soglia era stata superata
 
 🛑
 
-Fammi sapere quando vuoi proseguire.
