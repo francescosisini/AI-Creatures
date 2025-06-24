@@ -1,6 +1,4 @@
-Perfetto. Ecco la nuova sezione, immersiva, tecnica e carica di tensione, dove Laura agisce come un soldato digitale, parlando in prima persona, con metafore da battaglia informatica:
 
----
 
 Rocky è sul divano. Respira piano. Le zampe distese, le orecchie tese. Ogni tanto mi guarda, ma non si muove.
 
@@ -96,4 +94,3 @@ Missione compiuta.
 
 🛑
 
-Dimmi tu se vuoi chiudere qui o aggiungere l’epilogo.
