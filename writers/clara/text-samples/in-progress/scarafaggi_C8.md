@@ -1,6 +1,4 @@
-Ecco il nuovo segmento, sempre nello stile sobrio e descrittivo stabilito, privo di paragoni. Due cartelle circa, seguendo fedelmente la tua traccia:
 
----
 
 Laura continuava a camminare, spostando il peso del corpo in modo controllato, mantenendo l’attenzione su ogni dettaglio. I passi non producevano rumore, ma dentro di lei il disorientamento cresceva. Il susseguirsi di immagini incoerenti, presenze inattese, gesti senza logica esplicita, le stava modificando la percezione del tempo e della direzione.
 
@@ -30,4 +28,4 @@ Laura li osservò in silenzio. Non la notarono, o finsero di non notarla. Rimase
 
 🛑
 
-Pronta a continuare quando vuoi.
+
