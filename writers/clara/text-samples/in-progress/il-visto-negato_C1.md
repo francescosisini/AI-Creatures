@@ -1,33 +1,41 @@
 
-La finestra era una griglia. 3x3. Rifrangeva un sole acido che non voleva entrare.
-Alice guardava la sorella che improvvisamente  non parlava più, o meglio: parlava dentro, parlava tra le scapole, parlava agli arti. Alle vene dei piedi.
 
-> “Non puoi entrare negli Stati Uniti.”
+Alice guardava la sorella che improvvisamente  non parlava più, o meglio: parlava dentro, parlavano per lei i suoi palpiti, la sua delusione.
+
+> ```TRAVEL NOT AUTHORIZED``` Non posso andare?
 
 Un modulo. Un click. Un archivio. Una tessera in un data-lago di opinioni politiche obsolete.
 
-> “Hai sostenuto un congresso ambientalista, in anno non dichiarato, luogo non strategico, ma ideologicamente deviato.”
+> Perché non sei partita con Mark?
 
-La sorella, Alice, seduta sul bordo del letto, masticava una frase da venti minuti. Caterina non l’ascoltava. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore. Un suono/odore/senso.
-
-Alice diceva:
-
-> “Ma quindi non ci vai più? Ma gliel’hai scritto che non sei una pericolosa attivista? Dai... lo sanno che era solo un convegno, no?”
-
-Ripetizione. Come un bug in un ciclo for.
+Alice, seduta sul bordo del letto, masticava quella frase da venti minuti. Caterina non l’ascoltava. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore.
 
 
-> “Purtroppo non funziona così Ali...”
+> “Ma quindi non ci vai più? Visto che era meglio se partivi con lui!”
 
-L’ambasciata USA Online – capitale fittizia di un impero automatico – aveva risposto: “Denied”. 
+Ripetizione: un ciclo for.
 
-> “Però c'è la possibilità di chiedere una revisione, ma non so a cosa potrebbe servire. Qui dice che in caso di veto è possibile citare l’articolo 27a, paragrafo 3: *Errori di classificazione algoritmica per eventi non sovversivi pre-QMP*.”
+>"Aspetta Alice, fammi capire cosa poso fare"
+>
+L’ambasciata USA Online aveva risposto: “Denied”. 
+
+> “...c'è la possibilità di chiedere una revisione, ma non so a cosa potrebbe servire. Qui dice che in caso di veto è possibile citare l’articolo 27a, paragrafo 3: *Errori di classificazione algoritmica per eventi non sovversivi pre-QMP*.”
 
 >"Prova Cate! Mark ti aspetta, non puoi lasciarlo li da solo. Ti immagini se non ti trova all'aeroporto?"
 
 Caterina la guarda. Ha solo 15 anni. Sa che non ha senso quello che sta dicendo, ma lo dice lo stesso.
 
->"ok, inoltro. Ma ho poca fiducia"
+>"Ali, lo avvertirei, non è quello"
+
+>"Spiagami, se me lo spieghi capisco"
+
+>"Era un'opportunità per rilanciare il nostro rapporto"
+
+>"Siete in crisi? Ti piace un altro?"
+
+Gli occhi fissi. Domanda disturbate.
+
+>"ok, inoltro la domanda, ma ho poca fiducia"
 
 L’indomani, l’oracolo risponderà. Alle 08:00 UTC-5.
 
