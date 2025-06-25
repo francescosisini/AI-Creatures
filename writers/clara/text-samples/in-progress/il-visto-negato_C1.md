@@ -36,20 +36,21 @@ Caterina la guarda. Ha solo 15 anni. Sa che non ha senso quello che sta dicendo,
 >Siete in crisi? Ti piace un altro?
 
 Gli occhi fissi. La domanda è disturbate. La risposta non è univoca e non è determinabile solo dalla condizioni iniziali. La stessa domanda potrebbe collassare in
-risposte diverse. Non c'è certezza nel cuore.
-Caterina sospira
->ok, inoltro la domanda, ma ho poca fiducia
+risposte diverse. Non c'è certezza nel cuore, ma c'è certezza di volontà: riuscire, completare. Non fallire.
+
+Caterina sospira. Una sorella è un'altra te che fa domande che non si dovrebbero fare.
+>ok, inoltro la domanda, ma ho poca fiducia che serva a qualcosa
 
 L’indomani, l’oracolo risponderà. Alle 08:00 UTC-5.
 
-Alice accendeva e spegneva una lampada. Luce calda. Luce fredda. Luce ambiente. Luce interrogativa.
+Alice accende e spegne la lampada. Una lampada fatta a cuore. Un regalo di Mark per il suo amore. Luce calda. Luce fredda. Luce ambiente. Luce interrogativa. Ma Mark non ha interrogativi. Lui è sicuro, lo è sempre stato. 
 
-Caterina la ignorava. Le stava appresso da un’ora. Era amore, ma anche attrito.
-La mente di Caterina faceva scrolling su vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
+Caterina prova ad ignorare la sorella. Le sta appresso da un’ora. Il loro  amore è anche attrito. Non scontro. Sabbia nelle scarpe.
+La sua di Caterina rievoca rapidamente  vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “green e resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
 
-> “Perché non si cancella niente?”, pensava.
+> “Perché non si cancella niente?”, pensa, ma Alice la risvsglia.
 
-Alice stava dicendo:
+Alice sta dicendo:
 
 > Ci sono le mie amiche in gelateria. Posso andare? Torno presto ok?”
 
