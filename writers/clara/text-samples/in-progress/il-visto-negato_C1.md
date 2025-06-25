@@ -17,27 +17,40 @@ Alice diceva:
 
 Ripetizione. Come un bug in un ciclo for.
 
-Caterina pensava:
 
-> “La vera me è archiviata in un pdf con firma digitale.”
+> “Purtroppo non funziona così Ali...”
 
-L’ambasciata USA Online – capitale fittizia di un impero automatico – aveva già risposto una volta. “Denied”. Lei aveva inoltrato la revisione, citando l’articolo 27a, paragrafo 3: *Errori di classificazione algoritmica per eventi non sovversivi pre-QMP*.
+L’ambasciata USA Online – capitale fittizia di un impero automatico – aveva risposto: “Denied”. 
+
+> “Però c'è la possibilità di chiedere una revisione, ma non so a cosa potrebbe servire. Qui dice che in caso di veto è possibile citare l’articolo 27a, paragrafo 3: *Errori di classificazione algoritmica per eventi non sovversivi pre-QMP*.”
+
+>"Prova Cate! Mark ti aspetta, non puoi lasciarlo li da solo. Ti immagini se non ti trova all'aeroporto?"
+
+Caterina la guarda. Ha solo 15 anni. Sa che non ha senso quello che sta dicendo, ma lo dice lo stesso.
+
+>"ok, inoltro. Ma ho poca fiducia"
 
 L’indomani, l’oracolo risponderà. Alle 08:00 UTC-5.
 
 Alice accendeva e spegneva una lampada. Luce calda. Luce fredda. Luce ambiente. Luce interrogativa.
 
-Caterina la ignorava. Le stava appresso da un’ora. Era amore, ma anche attrito. Come sabbia nei cuscinetti.
+Caterina la ignorava. Le stava appresso da un’ora. Era amore, ma anche attrito.
 La mente di Caterina faceva scrolling su vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
 
 > “Perché non si cancella niente?”, pensava.
 
 Alice stava dicendo:
 
-> “Io andrei a letto, se ti serve qualcosa...”
+> “Io andrei a fuori, torno presto ok?”
+> 
+> "Hai chiesto a mamma?"
+> 
+> "Si si, lo sa"
+> 
+> "ok allora, vado da Laura..."
 
-No. Non serve niente. Serve solo l’ignoto, distillato in una risposta binaria.
-Sì o no.
+Non serve niente ma non voglio stare sola.
+
 
 ---
 
