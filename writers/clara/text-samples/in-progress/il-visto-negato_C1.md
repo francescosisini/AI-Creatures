@@ -8,7 +8,7 @@ Un modulo. Un click. Un archivio. Una tessera in un data-lake di opinioni politi
 
 > Perché non sei partita con Mark?
 
-Alice, seduta sul bordo del letto, masticala stessa frase da venti minuti. Caterina non l’ascolta. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore.
+Alice, seduta sul bordo del letto, mastica la stessa frase da venti minuti. Caterina non l’ascolta. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore.
 
 
 > Ma quindi non ci vai più? Visto che era meglio se partivi con lui!
@@ -17,7 +17,7 @@ Alice, seduta sul bordo del letto, masticala stessa frase da venti minuti. Cater
 
 > Si, lo so. Non mi ascolti. Solo perché sono nata dopo di te non significa...
 
->Aspetta Alice, fammi capire cosa poso fare
+>Aspetta Alice, fammi capire cosa posso fare
 
 L’ambasciata USA Online aveva risposto: “Denied”. 
 
@@ -35,7 +35,7 @@ Caterina la guarda. Ha solo 15 anni. Sa che non ha senso quello che sta dicendo,
 
 >Siete in crisi? Ti piace un altro?
 
-Gli occhi fissi. La domanda è disturbate. La risposta non è univoca e non è determinabile solo dalla condizioni iniziali. La stessa domanda potrebbe collassare in
+Gli occhi fissi. La domanda è disturbante. La risposta non è univoca e non è determinabile solo dalla condizioni iniziali. La stessa domanda potrebbe collassare in
 risposte diverse. Non c'è certezza nel cuore, ma c'è certezza di volontà: riuscire, completare. Non fallire.
 
 Caterina sospira. Una sorella è un'altra te che fa domande che non si dovrebbero fare.
@@ -46,9 +46,10 @@ L’indomani, l’oracolo risponderà. Alle 08:00 UTC-5.
 Alice accende e spegne la lampada. Una lampada fatta a cuore. Un regalo di Mark per il suo amore. Luce calda. Luce fredda. Luce ambiente. Luce interrogativa. Ma Mark non ha interrogativi. Lui è sicuro, lo è sempre stato. 
 
 Caterina prova ad ignorare la sorella. Le sta appresso da un’ora. Il loro  amore è anche attrito. Non scontro. Sabbia nelle scarpe.
-La sua di Caterina rievoca rapidamente  vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “green e resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
 
-> “Perché non si cancella niente?”, pensa, ma Alice la risvsglia.
+Ci riesce, la ignora, rievoca rapidamente  vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “green e resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
+
+> “Perché non si cancella niente?”, pensa, ma Alice la risvesglia.
 
 Alice sta dicendo:
 
