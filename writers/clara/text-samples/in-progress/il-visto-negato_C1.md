@@ -29,13 +29,13 @@ Caterina la guarda. Ha solo 15 anni. Sa che non ha senso quello che sta dicendo,
 
 >Ali, lo avvertirei, non è quello
 
->Spiagami, se me lo spieghi capisco
+>Spiegami, se me lo spieghi capisco
 
 >Era un'opportunità per rilanciare il nostro rapporto
 
 >Siete in crisi? Ti piace un altro?
 
-Gli occhi fissi. La domanda è disturbante. La risposta non è univoca e non è determinabile solo dalla condizioni iniziali. La stessa domanda potrebbe collassare in
+Gli occhi fissi. La domanda è disturbante. La risposta non è univoca e non è determinabile solo dalle condizioni iniziali. La stessa domanda potrebbe collassare in
 risposte diverse. Non c'è certezza nel cuore, ma c'è certezza di volontà: riuscire, completare. Non fallire.
 
 Caterina sospira. Una sorella è un'altra te che fa domande che non si dovrebbero fare.
@@ -47,12 +47,12 @@ Alice accende e spegne la lampada. Una lampada fatta a cuore. Un regalo di Mark 
 
 Caterina prova ad ignorare la sorella. Le sta appresso da un’ora. Il loro  amore è anche attrito. Non scontro. Sabbia nelle scarpe.
 
-Ci riesce, la ignora, rievoca rapidamente  vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “green e resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
+Ci riesce. La ignora. Scorrono rapide, nella mente, vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “green e resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
 
 > “Perché non si cancella niente?”
-Il rammarico esce dai confini della sua anima e raggiuge Alice che mentre le chiede se ha il suo permesso per uscire per un istante si blocca:
+Il rammarico esce dai confini della sua anima e raggiunge Alice che mentre le chiede se ha il suo permesso per uscire per un istante si blocca:
 
-> Ci sono le mie amiche in gelateria. Posso andare? Torno presto ok?”
+> Ci sono le mie amiche in gelateria. Posso andare? Torno presto, ok?”
 
 > "Hai chiesto a mamma?"
 
