@@ -1,7 +1,6 @@
 
 La finestra era una griglia. 3x3. Rifrangeva un sole acido che non voleva entrare.
-
-Caterina non parlava. O meglio: parlava dentro, parlava tra le scapole, parlava agli arti. Alle vene dei piedi.
+Alice guardava la sorella che improvvisamente  non parlava più, o meglio: parlava dentro, parlava tra le scapole, parlava agli arti. Alle vene dei piedi.
 
 > “Non puoi entrare negli Stati Uniti.”
 
