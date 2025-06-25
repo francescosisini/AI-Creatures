@@ -48,13 +48,13 @@ La mente di Caterina faceva scrolling su vecchie foto. Lei su un palco. Un badge
 
 Alice stava dicendo:
 
-> “Io andrei a fuori, torno presto ok?”
+> Ci sono le mie amiche in gelateria. Posso andare? Torno presto ok?”
 
 > "Hai chiesto a mamma?"
 
-> "Si si, lo sa"
+> "Si si, lo sa. Volevo stare con te mentre facevi i bagagli ma visto la situa... Fino alle 22:00 sono authorized"
 
-> "ok allora, io vado da Laura..."
+> "ok esci pure. Allora, io vado da Laura..."
 
 Non serve niente ma non voglio stare sola.
 
