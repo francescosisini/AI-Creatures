@@ -11,7 +11,7 @@ Un modulo. Un click. Un archivio. Una tessera in un data-lago di opinioni politi
 Alice, seduta sul bordo del letto, masticava quella frase da venti minuti. Caterina non l’ascoltava. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore.
 
 
-> “Ma quindi non ci vai più? Visto che era meglio se partivi con lui!”
+> Ma quindi non ci vai più? Visto che era meglio se partivi con lui!
 
 Ripetizione: un ciclo for.
 
@@ -49,12 +49,12 @@ La mente di Caterina faceva scrolling su vecchie foto. Lei su un palco. Un badge
 Alice stava dicendo:
 
 > “Io andrei a fuori, torno presto ok?”
-> 
+
 > "Hai chiesto a mamma?"
-> 
+
 > "Si si, lo sa"
-> 
-> "ok allora, vado da Laura..."
+
+> "ok allora, io vado da Laura..."
 
 Non serve niente ma non voglio stare sola.
 
