@@ -49,9 +49,8 @@ Caterina prova ad ignorare la sorella. Le sta appresso da un’ora. Il loro  amo
 
 Ci riesce, la ignora, rievoca rapidamente  vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “green e resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
 
-> “Perché non si cancella niente?”, pensa, ma Alice la risvesglia.
-
-Alice sta dicendo:
+> “Perché non si cancella niente?”
+Il rammarico esce dai confini della sua anima e raggiuge Alice che mentre le chiede se ha il suo permesso per uscire per un istante si blocca:
 
 > Ci sono le mie amiche in gelateria. Posso andare? Torno presto ok?”
 
