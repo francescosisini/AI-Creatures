@@ -19,7 +19,7 @@ Alice, seduta sul bordo del letto, mastica la stessa frase da venti minuti. Cate
 
 >Aspetta Alice, fammi capire cosa posso fare
 
-L’ambasciata USA Online aveva risposto: “Denied”. 
+L’ambasciata USA Online ha risposto: “Denied”. 
 
 > ...c'è la possibilità di chiedere una revisione, ma non so a cosa potrebbe servire. Qui dice che in caso di veto è possibile citare l’articolo 27a, paragrafo 3: *Errori di classificazione algoritmica per eventi non sovversivi pre-QMP*.”
 
@@ -49,16 +49,17 @@ Caterina prova ad ignorare la sorella. Le sta appresso da un’ora. Il loro  amo
 
 Ci riesce. La ignora. Scorrono rapide, nella mente, vecchie foto. Lei su un palco. Un badge verde. Una parola chiave: “green e resilienza”. Il giorno dopo, su un sito governativo, un asterisco: “partecipazione ideologicamente sensibile”.
 
-> “Perché non si cancella niente?”
+> Perché non si cancella niente?
+
 Il rammarico esce dai confini della sua anima e raggiunge Alice che mentre le chiede se ha il suo permesso per uscire per un istante si blocca:
 
 > Ci sono le mie amiche in gelateria. Posso andare? Torno presto, ok?”
 
-> "Hai chiesto a mamma?"
+> Hai chiesto a mamma?
 
-> "Si si, lo sa. Volevo stare con te mentre facevi i bagagli ma visto la situa... Fino alle 22:00 sono authorized"
+> Si si, lo sa. Volevo stare con te mentre facevi i bagagli ma visto la situa... Fino alle 22:00 sono authorized
 
-> "ok esci pure. Allora, io vado da Laura..."
+> ok esci pure. Se tu esci esco anche io. Vado da Laura...
 
 Non serve niente ma non voglio stare sola.
 
