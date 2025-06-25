@@ -1,26 +1,24 @@
-Ecco il nuovo frammento, coerente con la scena: Caterina da Laura, ore 20. Cena che sfrigola. Rabbia che scivola. Scrittura Clara – Neurocriticum:
 
----
 
-Il timer della pentola segnava nove minuti.
-Laura lo ignorava. Guardava il vapore come si guarda una nuvola in dissolvenza.
+Il timer della pentola segna nove minuti.
+Laura lo ignora. Guardav il vapore è  una piccola nuvola in dissolvenza.
 
-Caterina era entrata senza bussare. Rocky aveva abbaiato, poi si era acquietato.
-Valentina non c’era. La casa era una cellula con due nuclei. Laura. Caterina.
+Caterina era arrivata con un carico di disperazioni. Rocky aveva abbaiato, poi si era acquietato.
+Valentina non c’era. La casa era per loro: una cellula con due nuclei.
 
 > “Non mi lasciano entrare. È ufficiale. Ho la mail. Vuoi leggerla?”
 
-No. Non voleva. Ma la leggeva nei gesti. Nei tendini. Nel silenzio che seguiva le parole.
+>Vediamo...
 
-Caterina era seduta sullo sgabello con le ginocchia strette al petto.
-Ripeteva:
+Caterina è seduta sullo sgabello con le ginocchia strette.
+Ripete:
 
-> “Non ho fatto nulla di sbagliato. Nulla. Era un convegno.”
+> Pecrchè ci sono andata! Ma non ho fatto nulla di strano. Era solo un convegno, non una protesta o un sit-in.
 
-Laura mescolava. Cipolla, pomodoro, prezzemolo.
-Il cucchiaio di legno ticchettava contro il bordo come un metronomo emozionale.
+Laura mescola: cipolla, pomodoro, prezzemolo.
+Il cucchiaio di legno ticchetta contro il bordo come un metronomo emozionale.
 
-> “Mi hanno chiusa fuori per un pensiero. Non per un atto, Laura. Per un pensiero!”
+> Mi lasciano fuori per un convegno. Come faccio? Il corso, Mark!
 
 Rocky posava il muso sulle scarpe di Caterina.
 Alice non era con lei. Forse era rimasta a casa, forse no. Laura non chiese.
