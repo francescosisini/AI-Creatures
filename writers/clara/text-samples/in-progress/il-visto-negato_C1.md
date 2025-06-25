@@ -8,7 +8,7 @@ Un modulo. Un click. Un archivio. Una tessera in un data-lake di opinioni politi
 
 > Perché non sei partita con Mark?
 
-Alice, seduta sul bordo del letto, mastica la stessa frase da venti minuti. Caterina non l’ascolta. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore.
+Alice, seduta sul bordo del letto, mastica la stessa frase da venti minuti. Caterina non l’ascolta. O forse sì. Il suono si infiltra tra le sinapsi esauste, come un odore.
 
 
 > Ma quindi non ci vai più? Visto che era meglio se partivi con lui!
