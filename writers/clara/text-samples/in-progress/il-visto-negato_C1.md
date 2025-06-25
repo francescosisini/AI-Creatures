@@ -1,41 +1,44 @@
 
 
-Alice guardava la sorella che improvvisamente  non parlava più, o meglio: parlava dentro, parlavano per lei i suoi palpiti, la sua delusione.
+Alice guarda la sorella che improvvisamente  non parla più, o meglio: parla dentro, parlano per lei i suoi palpiti, la sua delusione.
 
 > ```TRAVEL NOT AUTHORIZED``` Non posso andare?
 
-Un modulo. Un click. Un archivio. Una tessera in un data-lago di opinioni politiche obsolete.
+Un modulo. Un click. Un archivio. Una tessera in un data-lake di opinioni politiche obsolete.
 
 > Perché non sei partita con Mark?
 
-Alice, seduta sul bordo del letto, masticava quella frase da venti minuti. Caterina non l’ascoltava. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore.
+Alice, seduta sul bordo del letto, masticala stessa frase da venti minuti. Caterina non l’ascolta. O forse sì. Il suono si infiltrava tra le sinapsi esauste, come un odore.
 
 
 > Ma quindi non ci vai più? Visto che era meglio se partivi con lui!
 
-Ripetizione: un ciclo for.
+> Questo me lo hai già detto Ali
 
->"Aspetta Alice, fammi capire cosa poso fare"
->
+> Si, lo so. Non mi ascolti. Solo perché sono nata dopo di te non significa...
+
+>Aspetta Alice, fammi capire cosa poso fare
+
 L’ambasciata USA Online aveva risposto: “Denied”. 
 
-> “...c'è la possibilità di chiedere una revisione, ma non so a cosa potrebbe servire. Qui dice che in caso di veto è possibile citare l’articolo 27a, paragrafo 3: *Errori di classificazione algoritmica per eventi non sovversivi pre-QMP*.”
+> ...c'è la possibilità di chiedere una revisione, ma non so a cosa potrebbe servire. Qui dice che in caso di veto è possibile citare l’articolo 27a, paragrafo 3: *Errori di classificazione algoritmica per eventi non sovversivi pre-QMP*.”
 
->"Prova Cate! Mark ti aspetta, non puoi lasciarlo li da solo. Ti immagini se non ti trova all'aeroporto?"
+>Prova Cate! Mark ti aspetta, non puoi lasciarlo li da solo. Ti immagini se non ti trova all'aeroporto?
 
 Caterina la guarda. Ha solo 15 anni. Sa che non ha senso quello che sta dicendo, ma lo dice lo stesso.
 
->"Ali, lo avvertirei, non è quello"
+>Ali, lo avvertirei, non è quello
 
->"Spiagami, se me lo spieghi capisco"
+>Spiagami, se me lo spieghi capisco
 
->"Era un'opportunità per rilanciare il nostro rapporto"
+>Era un'opportunità per rilanciare il nostro rapporto
 
->"Siete in crisi? Ti piace un altro?"
+>Siete in crisi? Ti piace un altro?
 
-Gli occhi fissi. Domanda disturbate.
-
->"ok, inoltro la domanda, ma ho poca fiducia"
+Gli occhi fissi. La domanda è disturbate. La risposta non è univoca e non è determinabile solo dalla condizioni iniziali. La stessa domanda potrebbe collassare in
+risposte diverse. Non c'è certezza nel cuore.
+Caterina sospira
+>ok, inoltro la domanda, ma ho poca fiducia
 
 L’indomani, l’oracolo risponderà. Alle 08:00 UTC-5.
 
