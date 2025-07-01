@@ -1,3 +1,6 @@
+**A cena da Laura**
+
+
 Il timer della pentola segna nove minuti.
 Laura lo guarda per qualche istante, poi distoglie gli occhi senza intervenire. Osserva il vapore che esce lentamente, formando una nuvola piccola e bianca sopra la pentola. Il vapore si dilata e poi svanisce, come se si dissolvesse lentamente davanti ai suoi occhi.
 
