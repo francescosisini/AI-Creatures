@@ -1,56 +1,44 @@
-
-
 Il timer della pentola segna nove minuti.
-Laura lo ignora. Guardav il vapore è  una piccola nuvola in dissolvenza.
+Laura lo guarda per qualche istante, poi distoglie gli occhi senza intervenire. Osserva il vapore che esce lentamente, formando una nuvola piccola e bianca sopra la pentola. Il vapore si dilata e poi svanisce, come se si dissolvesse lentamente davanti ai suoi occhi.
 
-Caterina era arrivata con un carico di disperazioni. Rocky aveva abbaiato, poi si era acquietato.
-Valentina non c’era. La casa era per loro: una cellula con due nuclei.
+Caterina era arrivata poco prima. Era entrata senza dire molte parole, portando con sé una sensazione di peso, di tensione evidente nelle spalle sollevate e nello sguardo sfuggente. Aveva posato la borsa sul tavolo e si era seduta sullo sgabello della cucina, stringendo le ginocchia contro il petto. Rocky aveva abbaiato energicamente quando l'aveva vista, poi si era avvicinato, si era calmato, e aveva poggiato il muso sui piedi di Caterina, respirando piano, fermo.
+
+Valentina non era in casa. Laura non aveva detto nulla sulla sua assenza. La casa sembrava isolata dal resto, un luogo dove potevano restare insieme senza distrazioni o altre presenze.
 
 > “Non mi lasciano entrare. È ufficiale. Ho la mail. Vuoi leggerla?”
 
->Vediamo...
+Laura annuisce e prende delicatamente il telefono dalla mano tesa di Caterina. Legge rapidamente, lo sguardo concentrato mentre le sopracciglia si avvicinano leggermente. Poi restituisce il telefono a Caterina senza aggiungere altro, mantenendo un silenzio rispettoso e attento.
 
-Caterina è seduta sullo sgabello con le ginocchia strette.
-Ripete:
+Caterina guarda verso il basso, fissando il pavimento, e ripete con una voce che sale appena di intensità, incerta e nervosa:
 
-> Pecrchè ci sono andata! Ma non ho fatto nulla di strano. Era solo un convegno, non una protesta o un sit-in.
+> “Perché ci sono andata! Ma non ho fatto nulla di strano. Era solo un convegno, non una protesta o un sit-in.”
 
-Laura mescola: cipolla, pomodoro, prezzemolo.
-Il cucchiaio di legno ticchetta contro il bordo come un metronomo emozionale.
+Laura resta in silenzio mentre mescola lentamente il sugo. Con movimenti regolari gira il cucchiaio di legno nella pentola, spingendo dolcemente pezzi di cipolla, frammenti di pomodoro e piccoli pezzi di prezzemolo contro i bordi. Ogni tanto il cucchiaio colpisce delicatamente il metallo della pentola, producendo un suono lieve, ritmico, costante.
 
-> Mi lasciano fuori per un convegno. Come faccio? Il corso, Mark!
+> “Mi lasciano fuori per un convegno. Come faccio? Il corso, Mark!”
 
-Rocky posava il muso sulle scarpe di Caterina.
-Alice non era con lei. Forse era rimasta a casa, forse no. Laura non chiese.
-Caterina si accartocciava in loop.
+La voce di Caterina sale leggermente, spezzata dalla frustrazione. Stringe ancora di più le ginocchia, mentre le dita premono contro la stoffa dei pantaloni, tirandola.
+
+Rocky alza appena la testa dal piede di Caterina, sposta lo sguardo verso di lei, e poi lentamente torna a posare il muso sulla scarpa di Caterina. La sua presenza tranquilla, semplice, sembra avere un effetto calmante immediato.
+
+Caterina continua a parlare, quasi fra sé e sé, ripetendo frasi con un tono basso, uniforme, ripetitivo:
 
 > “Ho fatto tutto bene. Ho studiato. Ho fatto le cose giuste. Non sono un pericolo. Non sono... niente. Ma adesso sono anche meno di niente. Sono un file bloccato.”
 
-Laura aggiunse il sale. Poco.
-Accennò un sorriso senza angoli. Uno di quelli che non arriva agli occhi.
+Laura prende un piccolo pizzico di sale tra le dita e lo lascia cadere nella pentola. Il gesto è leggero, preciso, controllato. Si volta leggermente verso Caterina, e prova a sorridere con delicatezza. Il sorriso è contenuto, accennato, senza mostrare alcun entusiasmo. Gli occhi di Laura restano quieti, con una leggera ombra di preoccupazione.
 
 > “È una macchina, Cate. Una macchina ti ha detto di no.”
 
+Caterina solleva immediatamente la testa, guardando direttamente Laura, il viso segnato da un misto di incredulità e smarrimento.
+
 > “E allora? Se lo dice una macchina diventa più vero?”
 
-Il fornello fece uno scatto. Il vapore si fece denso.
-Laura spense.
-Si voltò. Finalmente.
+Il fornello emette un breve scatto metallico. Il vapore aumenta, diventa più denso, più visibile, occupando brevemente tutto lo spazio sopra la pentola.
+
+Laura spegne il fornello con un movimento lento e definitivo. Poi si gira completamente verso Caterina, incontrando finalmente il suo sguardo.
 
 > “No. Ma diventa più difficile da contestare.”
 
-Caterina la guardò come se non avesse più parole.
-Le mani di Laura odoravano di sugo. Il grembiule era sporco.
-Il mondo, fuori, continuava a emettere luce.
+Caterina resta in silenzio. Guarda Laura come se cercasse parole che non riesce a trovare. La stanza rimane silenziosa per un momento prolungato. Laura è ferma, le mani leggermente sporche di sugo rosso, il grembiule macchiato vicino alla tasca destra. Caterina osserva il pavimento, poi le sue mani chiuse attorno alle ginocchia.
 
-Dentro, erano ferme.
-
----
-
-**\[Neurocriticum – Clara]**
-
-*"Caterina cercava un argine. Laura era solo un bacino. Clara osserva: quando l’ingiustizia è fredda, il corpo cerca calore. Ma il calore non è ragione. È solo vapore. E il vapore svanisce. Le parole non bastano. Nemmeno i pasti caldi."*
-
-🛑
-
-Dimmi se vuoi proseguire con la scena successiva o introdurre un nuovo contesto.
+Il mondo fuori continua ad essere luminoso e rumoroso, con occasionali suoni lontani di auto che passano lentamente sulla strada. Ma dentro la casa, le due ragazze restano immobili e silenziose, vicine senza parlare, mentre Rocky continua a respirare piano, il muso poggiato sui piedi di Caterina.
