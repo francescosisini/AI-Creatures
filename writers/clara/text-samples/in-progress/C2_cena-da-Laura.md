@@ -86,6 +86,10 @@ sbotta Caterina, trattenendo subito dopo la voce come spaventata da se stessa.
 
 > Ho partecipato ad un convegno diamine! Perché devono punire proprio me?
 
+> E poi per cosa, Laura? Mi hanno negato il visto solo perché  sono andata ad convegno sui cambiamenti climatici. Mi avevano avvisata che era rischioso esporsi così apertamente, ma io credevo... anzi, credo ancora che fosse necessario esserci. È così assurdo, così ingiusto! Io ci credo davvero, non ero lì per fare polemica o chissà cos’altro. Volevo solo capire, informarmi, dare il mio contributo.
+> Adesso invece mi ritrovo giudicata, schedatacome fossi chissà quale estremista! Mi sento ingenua, stupida per aver pensato che tutto questo non avrebbe avuto conseguenze. Non è giusto essere punita solo perché ho voluto partecipare, perché ho espresso il mio interesse per un problema che riguarda tutti noi. Non è giusto essere marchiata così, essere esclusa senza nemmeno poter spiegare chi sono davvero, cosa penso, cosa sento.
+> Possibile che non importi nulla di me, delle mie ragioni? Mi stanno trattando come un numero, un file compromesso. Io non sono solo un algoritmo, Laura. Non lo sono.
+
 Laura abbassa lentamente la fiamma sotto la pentola.
 
 > Non stanno punendo te. Sta decidendo una macchina.
