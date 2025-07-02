@@ -114,27 +114,25 @@ Caterina alza gli occhi verso Laura, un’ombra di irritazione che svanisce rapi
 
 conferma Laura.
 
-Caterina resta in silenzio, guardando con intensità il tagliere consumato.
+Caterina resta in silenzio, guardando Laura sminuzzare le verdure fresche  sul tagliere.
 
-> Quante volte sono arrivata a casa tua in lacrime ormai?
+> Ormai associo le mie crisi al tuo tagliere
 
-Laura sorride.
+Laura sorride: > in che senso?
 
-> Non lo so. Tante, credo. Quel tagliere ha visto tutte le nostre serate peggiori.
+> Mi sembra uno schema noto: io a pezzi e tu che sminuzzi! Quante volte mi hai consolato mentre preparavi la cena?
+
+> Non lo so. Tante, credo. In effetti il tagliere ha visto tutte le nostre serate peggiori.
 
 > Ma poi sono sempre passate, vero?
 
-domanda Caterina piano, osservando ancora l’oggetto.
+domanda  piano, osservando ancora l’oggetto.
 
-> Quella macchia di bruciato non è mai andata via. Colpa mia!
+> Quella macchia  non è mai andata via. Colpa mia! Come si fa ad appoggiarci la moka?
 
-> Nemmeno le nostre ansie se ne vanno mai del tutto
+> Non preoccuparti. Comunque nemmeno le nostre ansie se ne vanno mai del tutto. Però si affievoliscono, Cate. Tu fai sempre tutto giusto, sei diligente, attenta. Stai tranquilla, si sistemerà anche questa.
 
-risponde Laura dolcemente.
-
-> Però si affievoliscono, Cate. Tu fai sempre tutto giusto, sei diligente, attenta. Te lo dico sempre.
-
-> Non abbastanza, evidentemente
+> Non abbastanza attenta, evidentemente
 
 replica Caterina, fissando ancora il pavimento.
 
