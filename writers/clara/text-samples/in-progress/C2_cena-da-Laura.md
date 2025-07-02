@@ -1,47 +1,74 @@
-**A cena da Laura**
 
 
-Il timer della pentola segna nove minuti.
-Laura lo guarda per qualche istante, poi distoglie gli occhi senza intervenire. Osserva il vapore che esce lentamente, formando una nuvola piccola e bianca sopra la pentola. Il vapore si dilata e poi svanisce, come se si dissolvesse lentamente davanti ai suoi occhi.
+## **A cena da Laura**
 
-Caterina era arrivata poco prima. Era entrata senza dire molte parole, portando con sé una sensazione di peso, di tensione evidente nelle spalle sollevate e nello sguardo sfuggente. Aveva posato la borsa sul tavolo e si era seduta sullo sgabello della cucina, stringendo le ginocchia contro il petto. Rocky aveva abbaiato energicamente quando l'aveva vista, poi si era avvicinato, si era calmato, e aveva poggiato il muso sui piedi di Caterina, respirando piano, fermo.
+«Ancora nove minuti», dice Laura, sfiorando appena il timer con le dita. «Posso spegnere prima se hai fretta.»
 
-Valentina non era in casa. Laura non aveva detto nulla sulla sua assenza. La casa sembrava isolata dal resto, un luogo dove potevano restare insieme senza distrazioni o altre presenze.
+«No, aspettiamo», risponde Caterina in tono sommesso. «Non ho molta fame adesso.»
 
-> “Non mi lasciano entrare. È ufficiale. Ho la mail. Vuoi leggerla?”
+«Magari un po’ più cotto non è male», dice Laura con voce morbida, tentando un sorriso cauto. «Il mio sugo fa miracoli, lo sai.»
 
-Laura annuisce e prende delicatamente il telefono dalla mano tesa di Caterina. Legge rapidamente, lo sguardo concentrato mentre le sopracciglia si avvicinano leggermente. Poi restituisce il telefono a Caterina senza aggiungere altro, mantenendo un silenzio rispettoso e attento.
+«Lo so, lo sento dall’odore. Cipolla e prezzemolo, vero?»
 
-Caterina guarda verso il basso, fissando il pavimento, e ripete con una voce che sale appena di intensità, incerta e nervosa:
+«Pomodoro, cipolla, prezzemolo... un pizzico di sale», elenca Laura. «È più semplice del solito...»
 
-> “Perché ci sono andata! Ma non ho fatto nulla di strano. Era solo un convegno, non una protesta o un sit-in.”
+Caterina sospira piano, osservando qualcosa di lontano oltre il bancone. «Anche Rocky sembra pensarlo. Guarda com’è tranquillo oggi.»
 
-Laura resta in silenzio mentre mescola lentamente il sugo. Con movimenti regolari gira il cucchiaio di legno nella pentola, spingendo dolcemente pezzi di cipolla, frammenti di pomodoro e piccoli pezzi di prezzemolo contro i bordi. Ogni tanto il cucchiaio colpisce delicatamente il metallo della pentola, producendo un suono lieve, ritmico, costante.
+«Forse ti sente un po' delusa», replica Laura, osservando il cane che tiene il muso appoggiato alle scarpe di Caterina. «Fa sempre così quando qualcuno sta male.»
 
-> “Mi lasciano fuori per un convegno. Come faccio? Il corso, Mark!”
+Caterina si stringe ancora di più le ginocchia al petto. «Si vede così tanto?»
 
-La voce di Caterina sale leggermente, spezzata dalla frustrazione. Stringe ancora di più le ginocchia, mentre le dita premono contro la stoffa dei pantaloni, tirandola.
+«Beh, sei entrata senza salutare», risponde Laura con un sorriso leggermente imbarazzato, abbassando lo sguardo verso il grembiule. «Non sei così. O meglio, non quando va tutto bene.»
 
-Rocky alza appena la testa dal piede di Caterina, sposta lo sguardo verso di lei, e poi lentamente torna a posare il muso sulla scarpa di Caterina. La sua presenza tranquilla, semplice, sembra avere un effetto calmante immediato.
+«È ufficiale», dice Caterina, tendendo il telefono verso Laura. «Non mi fanno entrare. Vuoi leggerla tu?»
 
-Caterina continua a parlare, quasi fra sé e sé, ripetendo frasi con un tono basso, uniforme, ripetitivo:
+Laura prende il telefono  legge velocemente e lo restituisce  senza commentare.
 
-> “Ho fatto tutto bene. Ho studiato. Ho fatto le cose giuste. Non sono un pericolo. Non sono... niente. Ma adesso sono anche meno di niente. Sono un file bloccato.”
+«Te l’aspettavi, vero?», chiede Caterina con un filo di voce ansiosa. «L’ho capito dal modo in cui hai riordinato tutto.»
 
-Laura prende un piccolo pizzico di sale tra le dita e lo lascia cadere nella pentola. Il gesto è leggero, preciso, controllato. Si volta leggermente verso Caterina, e prova a sorridere con delicatezza. Il sorriso è contenuto, accennato, senza mostrare alcun entusiasmo. Gli occhi di Laura restano quieti, con una leggera ombra di preoccupazione.
+Laura alza un sopracciglio sorpresa. «Davvero», insiste Caterina, alzando leggermente la testa. «Tu metti ordine quando sei preoccupata. Lo fai ogni volta. I piatti allineati come in un ristorante, l’asciugamano perfettamente appeso...»
 
-> “È una macchina, Cate. Una macchina ti ha detto di no.”
+Laura sospira dolcemente, sfiorando il grembiule macchiato vicino alla tasca destra. «Non me ne ero mai accorta»
 
-Caterina solleva immediatamente la testa, guardando direttamente Laura, il viso segnato da un misto di incredulità e smarrimento.
+«Scusami, non volevo essere nervosa con te.»
 
-> “E allora? Se lo dice una macchina diventa più vero?”
+«Non lo sei stata», replica Laura con tono rassicurante. «Sei solo delusa. È normale.»
 
-Il fornello emette un breve scatto metallico. Il vapore aumenta, diventa più denso, più visibile, occupando brevemente tutto lo spazio sopra la pentola.
+«Ma non ho fatto nulla di male!», sbotta Caterina, trattenendo subito dopo la voce come spaventata da se stessa. «Ho partecipato ad un convegno diamine! Perché devono punire proprio me?»
 
-Laura spegne il fornello con un movimento lento e definitivo. Poi si gira completamente verso Caterina, incontrando finalmente il suo sguardo.
+Laura abbassa lentamente la fiamma sotto la pentola. «Non stanno punendo te. Sta decidendo una macchina.»
 
-> “No. Ma diventa più difficile da contestare.”
+«Una macchina che decide della mia vita», ripete Caterina, la voce tremante. «Un algoritmo, un file bloccato. Capisci cosa vuol dire?»
 
-Caterina resta in silenzio. Guarda Laura come se cercasse parole che non riesce a trovare. La stanza rimane silenziosa per un momento prolungato. Laura è ferma, le mani leggermente sporche di sugo rosso, il grembiule macchiato vicino alla tasca destra. Caterina osserva il pavimento, poi le sue mani chiuse attorno alle ginocchia.
+«Lo capisco», risponde Laura con calma. «Ed è terribile. Non sto minimizzando. Dico solo che non è personale. E quindi...»
 
-Il mondo fuori continua ad essere luminoso e rumoroso, con occasionali suoni lontani di auto che passano lentamente sulla strada. Ma dentro la casa, le due ragazze restano immobili e silenziose, vicine senza parlare, mentre Rocky continua a respirare piano, il muso poggiato sui piedi di Caterina.
+Caterina alza gli occhi verso Laura, un’ombra di irritazione che svanisce rapidamente. «Ma diventa personale quando capita a me!»
+
+«Hai ragione», conferma Laura.
+
+Caterina resta in silenzio, guardando con intensità il tagliere consumato. «Quante volte sono arrivata a casa tua in lacrime ormai?»
+
+Laura sorride, «Non lo so. Tante, credo. Quel tagliere ha visto tutte le nostre serate peggiori.»
+
+«Ma poi sono sempre passate, vero?», domanda Caterina piano, osservando ancora l’oggetto. «Quella macchia di bruciato non è mai andata via. Colpa mia!»
+
+«Nemmeno le nostre ansie se ne vanno mai del tutto», risponde Laura dolcemente. «Però si affievoliscono, Cate. Tu fai sempre tutto giusto, sei diligente, attenta. Te lo dico sempre.»
+
+«Non abbastanza, evidentemente», replica Caterina, fissando ancora il pavimento. «Mi sento stupida, esposta, giudicata da tutti.»
+
+«Cate, qui siamo solo io, te, e Rocky», la interrompe Laura con voce ferma ma calda. «Non c’è nessuno che ti giudica.»
+
+«Non è mai davvero così semplice per me», sospira Caterina. «Lo sai.»
+
+Laura annuisce comprensiva. 
+
+Caterina torna a guardare la pentola, i suoi occhi si fermano sul vapore che si alza lento.
+
+
+«Stai bene con il grembiule», risponde Caterina più rilassata. «Sembri una cuoca professionista.»
+
+Laura guarda verso il basso, arrossendo leggermente «Ecco che il sugo è pronto.»
+
+«Benissimo, E adesso ho un po’ più fame.»
+
+«Bene, allora mangiamo.»
