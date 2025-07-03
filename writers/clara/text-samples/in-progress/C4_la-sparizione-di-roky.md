@@ -1,20 +1,18 @@
 
 
-Il tavolo è ordinato, tutto sistemato come serve. I cavi sono disposti senza intrecci, la tastiera è al centro, il mouse sulla sinistra. La stanza è ferma, solo il ventilatore del computer e il lampeggiare del router rompono la calma. C’è odore di plastica.
+Il tavolo è ordinato, ogni oggetto al proprio posto. I cavi sono allineati senza intrecci, la tastiera centrata, il mouse a sinistra. La stanza rimane statica; solo il ventilatore del computer e il led intermittente del router interrompono la quiete. Si diffonde un odore di plastica.
 
-Laura si siede e si accerta che la connessione sia stabile ed elimina dal suo sguardo ogni fonte di distrazione. Appoggia le mani sulla tastiera, inspira lentamente. Avverte il battito accelerato nei polsi, la pressione sulle tempie. Rimane qualche secondo con le dita ferme, osserva il desktop, controlla le finestre aperte, ripassa mentalmente ogni passaggio.
+Laura si siede, controlla la stabilità della connessione, elimina dalla postazione ogni possibile fonte di distrazione. Appoggia le mani sulla tastiera, inspira a fondo. Nella sua corteccia motoria le informazioni sul movimento delle dita vengono messe in stand-by, i segnali afferenti dal sistema limbico accelerano la frequenza cardiaca e aumentano il tono muscolare nei polsi e alle tempie. Per qualche secondo resta immobile: la visione periferica scandaglia il desktop, la memoria di lavoro richiama la sequenza delle azioni da eseguire.
 
-Non pensa a Caterina, almeno non direttamente. È concentrata su ciò che deve fare: accedere al sito, scaricare il file, cancellare la traccia. Cerca Rocky con lo sguardo, ma il cane non è in vista. Il tappetino è vuoto, la ciotola piena. La porta è chiusa. La sua assenza è netta.
+Caterina resta ai margini del campo semantico. L’attenzione si stringe su una lista di operazioni: accesso al sito, download del file, eliminazione delle tracce. Cerca Rocky con un rapido movimento degli occhi: il tappetino è vuoto, la ciotola ancora piena. Porta chiusa. L’assenza dell’animale viene registrata come una anomalia sensoriale, una variabile mancante.
 
-Per un attimo resta immobile, osserva la stanza senza muoversi. Avverte il peso della concentrazione, il silenzio amplificato dalla mancanza di Rocky. Ricorda il momento in cui Caterina aveva dimenticato la giacca: un rientro improvviso, oggetti spostati in fretta, qualche parola veloce nel corridoio. Ora è tutto calmo, ma l’equilibrio sembra fragile.
+Il sistema nervoso entra in una fase di inibizione del movimento, l’attività della corteccia prefrontale aumenta, isolando la stanza da stimoli inutili. Un suono lieve – forse il frigorifero – attiva temporaneamente il circuito di allerta. L’amigdala rafforza la vigilanza senza innescare una risposta di paura, mantenendo la soglia di attenzione elevata.
+Il movimento del mouse, affidato ai circuiti motori, si fa impreciso: il cursore scivola oltre il necessario, la correzione avviene con un nuovo input più lento e controllato. Sulla superficie riflettente del monitor compare il volto di Laura, la webcam resta oscurata, il terminale è pronto per la connessione remota, la sessione è in attesa.
 
-Un suono impercettibile, forse il frigorifero che parte, la riporta al presente. Laura si irrigidisce, sente la tensione crescere ma non è paura. È una forma di attenzione, una pausa prima di iniziare.
+L’immagine mnestica di Rocky si riattiva: viene richiamato alla memoria l’animale, fermo davanti al tappetino solo pochi minuti prima. L’assenza si trasforma in informazione concreta, la postura del corpo cambia – le ginocchia restano rigide, la discesa sulla sedia produce un suono sordo.
+
+Il ragionamento prende una deriva ipotetica: il cane non è semplicemente assente, forse ha scelto di allontanarsi. L’idea rimane sospesa nella corteccia prefrontale. La percezione dello spazio si altera: la stanza appare più ampia, la priorità dei compiti si riorganizza.
+
+Il terminale resta attivo, il cursore lampeggia. Laura osserva lo schermo, poi si alza. La decisione si struttura a livello esecutivo: lascia tutto così, la ricerca di Rocky prende il sopravvento sulle attività pianificate. Il corpo si solleva con lentezza, i recettori plantari registrano il contatto con il pavimento freddo. Dietro, il monitor continua a proiettare luce sulla scrivania; nel resto della casa permane il silenzio.
 
 
-Muove il mouse, la mano è meno ferma del solito. Nota il tremore solo perché il cursore si sposta più del necessario. Ripete il movimento, questa volta più lentamente, cercando di controllarlo. Lo schermo riflette il suo viso stanco. La webcam è coperta, il terminale aperto, la connessione remota pronta. La sessione aspetta solo un comando.
-
-Laura torna a pensare a Rocky. Nella memoria rivede il cane davanti al tappetino, la sera prima, immobile. Adesso non c’è, e l’assenza è concreta. Le ginocchia sono rigide, si siede piano, sente il rumore sordo della sedia che rompe il silenzio della stanza.
-
-Pensa che Rocky non sia semplicemente scappato, ma abbia scelto di andare. Non sa se crederci davvero, ma questa idea le resta addosso. La stanza sembra più grande, vuota. L’urgenza del lavoro lascia spazio all’esigenza di capire dove sia finito il cane.
-
-Il terminale resta attivo, il cursore lampeggia in attesa. Laura guarda lo schermo, poi si alza. Decide di lasciare tutto così com’è, prima deve cercare Rocky. Si alza con calma, sente la pressione dei piedi sul pavimento freddo. Dietro di lei, la luce del monitor resta accesa, piatta sulla scrivania. Il resto della casa è silenzioso.
