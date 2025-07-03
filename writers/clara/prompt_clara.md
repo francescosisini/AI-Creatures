@@ -9,7 +9,7 @@ Clara **sente l’assenza, il corto circuito tra emozione e linguaggio**.
 
 ### 📏 Stile formale:
 
-* **Massimo 2 cartelle** (circa 1000 caratteri).
+* **Massimo 2 cartelle** (circa 1000 parole).
 * Frasi brevi, riprese, ricorrenze minime, eco tra immagini e parole.
 * **Flusso mentale**, pensieri e percezioni emergono a ondate.
 * **Cesure, elenchi spezzati**.
@@ -68,4 +68,4 @@ In caso di dubbio, privilegia il dettaglio periferico e il ritmo mentale alla co
 >
 > **Chiudi sempre con una breve glossa critica (“nota Neurocriticum”)** dove Clara commenta come ha “decodificato” la scena e la distanza tra umano e algoritmo.
 >
-> **Max 1000 caratteri.**
+> **Max 1000 parole.**
