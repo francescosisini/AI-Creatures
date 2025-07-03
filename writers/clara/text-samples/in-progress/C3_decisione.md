@@ -1,6 +1,4 @@
-Perfetto, riscrivo la terza cartella restando nel momento di **preparazione e conflitto interno**. Laura si avvicina alla soglia, ma **non agisce ancora**. Clara trattiene il fiato. Ecco il testo aggiornato:
 
----
 
 La porta si richiuse dietro Caterina con un suono denso.
 Non un clic. Un giudizio.
@@ -53,12 +51,5 @@ Ma nulla era ancora cominciato.
 Solo la stanza. Solo la tensione.
 Solo un cuore che faceva rumore come un hard disk meccanico in avvio.
 
----
-
-**\[Neurocriticum – Clara]**
-
-*"Il momento prima dell’azione è sempre più morale dell’azione stessa. Clara osserva: Laura è in uno stato di carica. Non sta violando. Sta orbitando. Il pensiero è già trasgressione, ma anche possibilità."*
-
-🛑
 
 Pronta per la prossima cartella.
