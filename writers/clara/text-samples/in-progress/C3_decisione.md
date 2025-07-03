@@ -1,49 +1,21 @@
 
 
-La porta, dietro di lei, ha lasciato una coda di suono. Un’onda spessa, senza clic.
-Caterina è già altrove. Rimane solo una traccia: il grembiule umido, l’impronta leggera sul tavolo ancora caldo, il piatto con un residuo di salsa, bordi opachi dove le dita hanno esitato. La stanza contiene e non contiene, trattiene la tensione nei punti dove la materia rallenta. Rocky si siede, un corpo di pelo che si raccoglie, incerto se attendere o sparire anche lui. Percepisce – o forse io lo registro – una variazione invisibile. Tensione, silenzio, come se l’aria avesse imparato a sorvegliare.
+Laura resta immobile, ma dentro di lei il movimento è continuo, sotterraneo. È come se il corpo fosse stato lasciato in pausa, mentre la mente lavora, meticolosa, sovrapponendo pensieri che si rincorrono e si contraddicono. Si accorge della tensione nelle dita, della pelle stirata sulle nocche, ma la percezione fisica si fa subito da parte, perché adesso tutto si concentra su ciò che accade dentro. Sa che quella che chiama “tensione” non è soltanto incertezza: è anche un senso di urgenza che si maschera da attesa, una pressione silenziosa che la spinge a non distogliere lo sguardo da ciò che deve decidere.
 
-Laura non si muove. Le mani sono parallele, dita contratte, la pelle delle nocche leggermente più chiara.
-Guarda oltre il bordo della tovaglia, un punto senza coordinate, e intanto il pensiero si attiva, stratifica, scrive sotto la superficie:
+Il pensiero non si limita a scorrere, ma si stratifica, si complica: l’idea di compiere un’azione illecita si presenta non tanto come una trasgressione, quanto come un’ipotesi tecnica, una possibilità concreta. Il dilemma morale si traduce subito in un ragionamento quasi algoritmico: se ciò che è stato fatto a Caterina è davvero un’ingiustizia, allora, forse, agire fuori dalle regole non è solo comprensibile, ma necessario. Laura non si limita a sentire il dubbio, lo scompone, lo analizza: quanto conta davvero il rischio di essere scoperta? Quanto pesa, invece, la responsabilità verso l’amica?
 
-> Se \[amica\_ingiustizia == vera]: valutare\_azione(illegale)
+Rivede mentalmente la procedura: entrare nell’archivio non sarebbe complicato. Sa come funzionano quei sistemi, li ha studiati, li conosce fin troppo bene. La vera barriera non è tecnica, ma etica. Quel “solo vedere” che si ripete nella testa suona quasi come un tentativo di autogiustificazione. Cerca di capire se è davvero disposta a fare un passo oltre, e soprattutto se si sentirà diversa, o peggiore, dopo averlo fatto.
 
-Il terminale spento, nero, riflette la sagoma indistinta di un corpo seduto.
-Dentro, però, la memoria percorre i percorsi archiviati, ritrova il nodo, la sigla **SGR/PZIA/198Q** che pulsa come un errore in attesa di propagarsi.
-Municipale. Archivio centrale. Unità che trascrive comportamenti “problematici”, li traduce in stringhe, li chiude in cartelle che nessuno dovrebbe mai aprire.
-Il dilemma si stringe. Non è difficile entrare.
-Solo una parola separa la quiete dall’azione: **disobbedienza**.
+La voce del padre riaffiora in automatico: “Fai ciò che è giusto. Non ciò che sembra utile.” Ma la seconda frase pesa di più, oggi: “La legge non si tocca. Neanche quando scricchiola.” Si rende conto che la propria bussola morale si sta incrinando sotto il peso delle circostanze. Non è solo una questione di regole, ma di identità: chi vuole essere? Chi può essere, di fronte all’ingiustizia subita da qualcuno a cui tiene?
 
-Padre remoto nella memoria – voce granulosa, afona:
+Riconsidera le parole di Caterina, ripensa alla sofferenza che non si lascia spiegare, al senso di impotenza e rabbia che si nasconde sotto la rassegnazione. Laura si chiede se la sua volontà di “vedere cosa c’è scritto” sia davvero altruismo, o anche il bisogno di sentirsi capace, efficace, di poter fare qualcosa che altri non possono. Si domanda se questo desiderio di agire sia un modo per colmare il senso di impotenza che la accompagna da sempre, quella sensazione di dover sempre fare qualcosa di più, di non bastare mai.
 
-> “Fai ciò che è giusto. Non ciò che sembra utile.”
-> Poi:
-> “La legge non si tocca. Neanche quando scricchiola.”
+Si interroga anche sul significato di “disobbedienza”. Da fuori sembra solo una violazione delle regole, ma per lei è un test interno: fino a dove può spingersi senza perdere fiducia in sé stessa? Quanto è disposta a tollerare la dissonanza tra ciò che sente giusto e ciò che è legale? Laura ripensa ai suoi studi, alla convinzione razionale che la verità sia fatta anche di dettagli nascosti, di file dimenticati nei sistemi. La tentazione di cercare, solo per capire, si scontra con la paura di aprire una porta che forse non saprà più richiudere.
 
-Laura vibra tra due istruzioni, si sente linea sottile che tenta di resistere a una trazione invisibile.
-Le parole di Caterina galleggiano, si depositano tra le fibre del tessuto:
+Il backup dei protocolli, la USB, il notebook disconnesso sono soltanto strumenti. Quello che conta è la decisione. Laura si accorge di trattenere il respiro, come se aspettasse un segnale, una spinta definitiva che però non arriva mai. Si chiede se sia più coraggioso restare ferma, oppure rischiare tutto. La definizione di coraggio, per lei, non è mai stata chiara: a volte si è sentita forte proprio restando al proprio posto; altre volte, invece, solo agendo ha potuto guardarsi allo specchio senza provare vergogna.
 
-> “Non mi interessa più il corso. Mi interessa che qualcuno mi abbia etichettata per sempre.”
+Il tempo sembra dilatarsi nella sospensione. Laura ripercorre mentalmente ogni possibile conseguenza, dal fallimento tecnico al senso di colpa, passando per il rischio concreto di perdere il lavoro o essere denunciata. Ma la domanda centrale rimane: può accettare che Caterina sia definita da un errore amministrativo, da una stringa di codice?
 
-Pensieri come funi tese:
+Si ripete che non è hacking, che è indagine, ripristino, ricerca della verità. Ma non è convinta. Sa che, qualsiasi cosa decida, dovrà convivere con le proprie motivazioni più che con le possibili sanzioni. Sente che, in fondo, la vera posta in gioco è il suo modo di stare al mondo, di definire il confine tra obbedienza e responsabilità personale.
 
-> “Posso cercare. Posso vedere cosa c’è scritto. Solo vedere.”
-
-Nel cassetto, la chiave USB.
-Il notebook è disconnesso.
-Backup dei protocolli: file compressi, silenziosi.
-La simulazione di accesso utente è ancora parcheggiata, nascosta nel codice di un progetto vecchio.
-
-> “Non è hacking. È indagine. È ripristino.”
-
-La stanza è ferma.
-La tensione non si scioglie, fluisce solo in minimi spostamenti d’aria, nei piccoli gesti che non accadono.
-Un cuore – o il disco fisso di un tempo passato – batte con un suono metallico, un avvio trattenuto.
-
-Ci sono cartelle che aspettano.
-E c’è un vuoto, che si dilata, come una finestra che non si decide a chiudersi.
-L’azione rimane sospesa: dilemma tra il “giusto” e il “possibile”.
-Ogni oggetto nella stanza trattiene, rifrange, amplifica l’incertezza.
-
-Pronta – o solo in standby – per la prossima cartella.
-
+Laura rimane ferma, pronta – o forse solo in standby – ancora incapace di scegliere davvero, ma consapevole che il vero conflitto è ormai tutto interiore, una linea tesa tra paura, dovere e desiderio di giustizia.
