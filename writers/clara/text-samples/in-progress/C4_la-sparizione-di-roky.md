@@ -2,10 +2,8 @@ Il tavolo è ordinato, ogni oggetto al proprio posto. I cavi sono allineati senz
 
 [ECG: 108 bpm, lieve aritmia, tracciato irregolare]
 Tracciato ECG:
-<svg width="250" height="40" viewBox="0 0 250 40" xmlns="http://www.w3.org/2000/svg">
-  <polyline points="0,20 20,20 25,5 30,35 35,20 70,20 75,10 80,30 85,20 250,20"
-    fill="none" stroke="#c00" stroke-width="2"/>
-</svg>
+![Tracciato ECG di Laura](img/ecg_laura.svg)
+
 Laura si siede, controlla la stabilità della connessione, elimina dalla postazione ogni possibile fonte di distrazione. Appoggia le mani sulla tastiera, inspira a fondo.  
 Nella sua corteccia motoria le informazioni sul movimento delle dita vengono messe in stand-by, i segnali afferenti dal sistema limbico accelerano la frequenza cardiaca e aumentano il tono muscolare nei polsi e alle tempie.  
 [EEG: prevalenza onde beta, attività frontale aumentata]  
