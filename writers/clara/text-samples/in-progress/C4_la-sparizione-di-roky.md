@@ -1,8 +1,9 @@
 Il tavolo è ordinato, ogni oggetto al proprio posto. I cavi sono allineati senza intrecci, la tastiera centrata, il mouse a sinistra. La stanza rimane statica; solo il ventilatore del computer e il led intermittente del router interrompono la quiete. Si diffonde un odore di plastica.
 
-[ECG: 108 bpm, lieve aritmia, tracciato irregolare]
+[ECG: 108 bpm, lieve aritmia, tracciato irregolare]  
+[PANAS: PA 12, NA 31 — irrequietezza, inquietudine, basso entusiasmo]  
 Tracciato ECG:
-![Tracciato ECG di Laura](img/ecg_laura.svg)
+![Tracciato ECG di Laura](img/ecg_laura_1.svg)
 
 Laura si siede, controlla la stabilità della connessione, elimina dalla postazione ogni possibile fonte di distrazione. Appoggia le mani sulla tastiera, inspira a fondo.  
 Nella sua corteccia motoria le informazioni sul movimento delle dita vengono messe in stand-by, i segnali afferenti dal sistema limbico accelerano la frequenza cardiaca e aumentano il tono muscolare nei polsi e alle tempie.  
@@ -11,6 +12,7 @@ Per qualche secondo resta immobile: la visione periferica scandaglia il desktop,
 
 Caterina resta ai margini del campo semantico. L’attenzione si stringe su una lista di operazioni: accesso al sito, download del file, eliminazione delle tracce. Cerca Rocky con un rapido movimento degli occhi: il tappetino è vuoto, la ciotola ancora piena. Porta chiusa.  
 [EEG: breve spike gamma — allerta improvvisa]  
+[PANAS: PA 10, NA 36 — picco di tensione, allerta, pensieri ripetitivi]  
 L’assenza dell’animale viene registrata come una anomalia sensoriale, una variabile mancante.
 
 Il sistema nervoso entra in una fase di inibizione del movimento, l’attività della corteccia prefrontale aumenta, isolando la stanza da stimoli inutili. Un suono lieve – forse il frigorifero – attiva temporaneamente il circuito di allerta.  
@@ -21,9 +23,10 @@ Il movimento del mouse, affidato ai circuiti motori, si fa impreciso: il cursore
 L’immagine mnestica di Rocky si riattiva: viene richiamato alla memoria l’animale, fermo davanti al tappetino solo pochi minuti prima. L’assenza si trasforma in informazione concreta, la postura del corpo cambia – le ginocchia restano rigide, la discesa sulla sedia produce un suono sordo.
 
 Il ragionamento prende una deriva ipotetica: il cane non è semplicemente assente, forse ha scelto di allontanarsi. L’idea rimane sospesa nella corteccia prefrontale.  
-[PANAS: PA 8, NA 34 — tensione, inquietudine, attenzione selettiva]  
+[PANAS: PA 8, NA 34 — tensione, inquietudine, attenzione selettiva, rimuginazione]  
 La percezione dello spazio si altera: la stanza appare più ampia, la priorità dei compiti si riorganizza.
 
 Il terminale resta attivo, il cursore lampeggia. Laura osserva lo schermo, poi si alza.  
 [ECG: ritorno a 96 bpm, lieve variabilità RR]  
+[PANAS: PA 13, NA 27 — ansia calante, leggero sollievo, energia pronta per l’azione]  
 La decisione si struttura a livello esecutivo: lascia tutto così, la ricerca di Rocky prende il sopravvento sulle attività pianificate. Il corpo si solleva con lentezza, i recettori plantari registrano il contatto con il pavimento freddo. Dietro, il monitor continua a proiettare luce sulla scrivania; nel resto della casa permane il silenzio.
