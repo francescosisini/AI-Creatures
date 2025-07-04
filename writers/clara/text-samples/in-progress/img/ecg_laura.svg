@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <polyline
+    fill="none"
+    stroke="#c00"
+    stroke-width="3"
+    points="
+      0,40
+      30,40
+      40,15
+      50,65
+      60,40
+      90,40
+      100,25
+      110,55
+      120,40
+      160,40
+      170,17
+      180,40
+      220,40
+      225,30
+      230,40
+      260,40
+      270,65
+      280,40
+      320,40
+      340,25
+      350,55
+      370,40
+      400,40
+    "
+  />
+</svg>
