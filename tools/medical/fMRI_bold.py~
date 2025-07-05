@@ -1,0 +1,16 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+t = np.linspace(0, 30, 300)
+bold = 0.3 + 0.9 * np.exp(-0.5*((t-10)/2.5)**2) + 0.1 * np.random.randn(len(t))
+
+plt.figure(figsize=(9,3))
+plt.plot(t, bold, color='crimson', lw=2)
+plt.axvspan(8, 13, color='yellow', alpha=0.25, label="Stimolo presentato")
+plt.title("Andamento temporale del segnale BOLD (simulazione)")
+plt.xlabel("Tempo (secondi)")
+plt.ylabel("Segnale BOLD (a.u.)")
+plt.legend()
+plt.tight_layout()
+plt.savefig("fmri_bold_temporale.svg", format="svg")
+plt.show()
