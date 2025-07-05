@@ -1,4 +1,80 @@
+Alice è seduta davanti al portatile.
+Ha aperto una nuova traccia su Suno.
+Scrive lentamente il testo del prompt. Una canzone, un modo per stare lì, una scorciatoia per dire qualcosa senza doverla spiegare.
 
+Scrive:
+
+    (Chorus)
+    She leaves and I stay
+    like a folder left open
+    half full, half erased
+    I blink, and she's already gone
+
+Poi:
+
+    (Verse)
+    She goes to New York
+    I stay with a lamp shaped like a heart
+    plastic love, three settings
+    warm, cold, ambient—mine is blinking
+
+Non capisce bene se sta scrivendo per se stessa o per lei.
+Ma non importa.
+Il sistema genera la traccia: synth dolce, voce diafana.
+Alice la ascolta tre volte. Poi clicca download.
+E intitola il file: “Don't Forget the Little Sister”.
+
+🎵 Title: Don’t Forget the Little Sister
+
+🎛 Style Description (max 200 characters):
+Bilingual emotional synth-pop with ambient textures, cinematic flow, and AI female vocals. Slow build. Glitchy, dreamlike, bittersweet. Like diary pages sung in code.
+
+🎤 Lyrics:
+
+*(Verse)*  
+She leaves and I stay  
+like a folder left open  
+half full, half erased  
+I blink, and she's already gone  
+
+*(Verse)*  
+She goes to New York  
+I stay with a lamp shaped like a heart  
+plastic love, three settings  
+warm, cold, ambient—mine is blinking  
+
+*(Chorus)*  
+I’m not angry, I’m just here  
+in the silence you left, in the flicker of fear  
+you’re a pixel away, and I’m still near  
+singing softly where you won’t hear  
+
+*(Verse)*  
+He’s the one with strong arms and clean shoes  
+the one who texts with emojis and truth  
+You smile when he calls, and I smile too  
+but is he holding you… or pulling you through?
+
+*(Bridge)*  
+Mark has a passport and plans, and light in his hands  
+he brings roses and reasons I don't understand  
+I’m glad he’s kind—I really am  
+but will he stay when the story gets bland?
+
+*(Chorus)*  
+I’m not angry, I’m just here  
+in the playlist you skipped, in the sighs you clear  
+you’re already boarding, and I disappear  
+Don’t forget me—I’m still near  
+
+*(Outro)*  
+I wrote this with Suno  
+not because I sing,  
+but because words break  
+and music doesn’t blink
+ 
+
+ 
 Alice guarda la sorella che improvvisamente non parla più, o meglio: **parla in un altro linguaggio**, uno che non ha bisogno di suoni. Parlano per lei **le contrazioni del diaframma, le pupille che non mettono più a fuoco**, i piccoli spasmi del mento. **Parla la pelle attorno alla bocca, che si irrigidisce. Parlano i muscoli delle mani, aggrappati al bordo del letto come se potessero trattenerla lì, in quel momento.** La delusione ha una voce che non si sente: **è il battito che accelera senza fiato, è il modo in cui il respiro non arriva fino in fondo.**
 
 > `TRAVEL NOT AUTHORIZED`
