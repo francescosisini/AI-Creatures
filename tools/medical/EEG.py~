@@ -1,0 +1,44 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# --- Parametri PANAS (modifica qui i valori) ---
+PA = 7  # Positive Affect (0-10)
+NA = 4  # Negative Affect (0-10)
+
+# --- Parametri EEG ---
+fs = 250  # frequenza di campionamento (Hz)
+t = np.arange(0, 5, 1/fs)  # 5 secondi
+
+# --- Definizione delle bande ---
+def generate_band(freq, amp, phase=0):
+    return amp * np.sin(2 * np.pi * freq * t + phase)
+
+# Ampiezze (scalate sui valori PANAS, normalizzate tra 0 e 1)
+alpha_amp = (PA / 10) * 1.0  # rilassamento (8-12 Hz)
+beta_amp = (NA / 10) * 0.7   # attivazione (15-25 Hz)
+theta_amp = (NA / 10) * 0.4 + (PA / 10) * 0.2  # mix (4-8 Hz)
+
+# Genera bande EEG
+alpha = generate_band(10, alpha_amp)
+beta = generate_band(20, beta_amp, phase=np.pi/4)
+theta = generate_band(6, theta_amp, phase=np.pi/2)
+
+# Rumore
+noise = 0.1 * np.random.randn(len(t))
+eeg_signal = alpha + beta + theta + noise
+
+# --- Plot e salvataggio SVG ---
+plt.figure(figsize=(12,4))
+plt.plot(t, eeg_signal, color='purple')
+plt.title(f'Simulazione EEG sintetico (PA={PA}, NA={NA})')
+plt.xlabel('Tempo (s)')
+plt.ylabel('Ampiezza (a.u.)')
+plt.xlim(0, 5)
+plt.grid(True)
+plt.tight_layout()
+
+# Salva in SVG
+plt.savefig("tracciato_eeg.svg", format="svg")
+plt.close()
+
+print("Tracciato EEG salvato in 'tracciato_eeg.svg'")

@@ -1,0 +1,77 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+def ecg_pqrst(t, fs, pa=30, na=20):
+    # Base line
+    ecg = np.zeros_like(t)
+
+    # Durata di un ciclo (battito) in secondi
+    # NA alto -> più corto (tachicardia), NA basso -> più lungo (rilassamento)
+    base_bpm = 70
+    freq = base_bpm + (na-20)*1.5 - (pa-20)*0.5  # bpm
+    beat_len = 60 / freq
+
+    # Ampiezza onda T (rilassamento, PA alto)
+    t_amp = 0.2 + 0.012*(pa-20)
+
+    # Nervosismo/tremore baseline (NA alto)
+    baseline_jitter = 0.01 * (na-20) if na > 22 else 0
+
+    # Durata ECG
+    duration = t[-1]
+    nbeats = int(duration / beat_len)
+
+    for i in range(nbeats):
+        beat_start = i * beat_len
+        # P wave
+        p_time = beat_start + 0.1 * beat_len
+        p_width = 0.04 * beat_len
+        ecg += np.exp(-((t-p_time)/p_width)**2)*0.1
+
+        # Q wave
+        q_time = beat_start + 0.22 * beat_len
+        q_width = 0.015 * beat_len
+        ecg -= np.exp(-((t-q_time)/q_width)**2)*0.18
+
+        # R wave
+        r_time = beat_start + 0.24 * beat_len
+        r_width = 0.008 * beat_len
+        r_amp = 1 + 0.04*(na-20)
+        ecg += np.exp(-((t-r_time)/r_width)**2)*r_amp
+
+        # S wave
+        s_time = beat_start + 0.27 * beat_len
+        s_width = 0.012 * beat_len
+        ecg -= np.exp(-((t-s_time)/s_width)**2)*0.3
+
+        # T wave
+        t_time = beat_start + 0.4 * beat_len
+        t_width = 0.045 * beat_len
+        ecg += np.exp(-((t-t_time)/t_width)**2)*t_amp
+
+    # Baseline jitter (nervosismo)
+    if baseline_jitter > 0:
+        np.random.seed(42)
+        ecg += np.random.normal(0, baseline_jitter, size=t.shape)
+
+    return ecg
+
+def plot_ecg_pa_na(pa, na, duration=4):
+    fs = 500
+    t = np.linspace(0, duration, int(fs*duration))
+    ecg = ecg_pqrst(t, fs, pa=pa, na=na)
+
+    plt.figure(figsize=(10,2.5))
+    plt.plot(t, ecg, color='#c00', linewidth=2)
+    plt.title(f"ECG simulato | PANAS: PA={pa} NA={na}")
+    plt.axis('off')
+    plt.tight_layout()
+    fname = f"ecg_panas_pa{pa}_na{na}.png"
+    plt.savefig(fname, bbox_inches='tight', pad_inches=0, transparent=True, dpi=180)
+    plt.show()
+    print(f"Salvato come {fname}")
+
+# ESEMPI: Cambia i valori a piacere!
+plot_ecg_pa_na(pa=36, na=12)  # Relax, energia positiva
+plot_ecg_pa_na(pa=8, na=34)   # Ansia, tensione, nervosismo
+plot_ecg_pa_na(pa=22, na=22)  # Stato neutro
