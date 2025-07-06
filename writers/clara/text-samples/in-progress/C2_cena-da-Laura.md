@@ -1,46 +1,54 @@
+
+
 ## A cena da Laura
 
 > Ancora nove minuti.
 
 Laura sfiora il timer con le dita. In cucina si sente profumo di sugo.
 
-La porta si apre senza preavviso. Caterina entra, silenziosa, lo sguardo basso. Rocky scodinzola e si avvicina a lei.
+La porta si apre. Caterina entra senza dire nulla, lo sguardo basso. Rocky scodinzola e si avvicina a lei.
 
-> Ciao… scusa se arrivo così, non ho avvisato.
+> Ciao… scusa se arrivo così.
 
 > Non serve avvisare, Cate.
 
 Valentina, seduta al tavolo con i quaderni aperti, segue la scena in silenzio, solo uno sguardo rapido e poi torna ai compiti.
 
-> Posso spegnere prima se hai fretta.
+> Manca qualche minuto per il sugo, ma posso spegnere prima se hai fretta.
 
 > No, aspettiamo.
 > Non ho molta fame adesso.
 
-Laura prova un sorriso, il tono morbido.
+Laura ha capito che qualcosa non va, ma con Caterina ci va cauta. Sa che, se le lascia spazio, prima o poi la verità verrà fuori da sola.
 
-> Magari un po’ più cotto non è male.
-> Il mio sugo fa miracoli, lo sai.
+> Allora lasciamo andare senza fretta.
+> Un buon sugo fa miracoli, lo sai.
 
 > Lo so, lo sento dall’odore. Cipolla e prezzemolo, vero?
 
 > Pomodoro, cipolla, prezzemolo… un pizzico di sale.
 
-Caterina si siede, Rocky ai suoi piedi, tranquillo.
+Caterina si siede, Rocky si sistema ai suoi piedi, il muso appoggiato sulle scarpe. Laura la osserva di sottecchi, preoccupata ma senza farlo pesare.
 
-> Anche Rocky sembra capirlo. Guarda com’è calmo oggi.
+> Hai usato i pomodori del tuo orto?
 
-> Forse ti sente un po’ delusa.
+> No, questi sono datterini. Io non ce li ho, però li prendo da una signora che li coltiva qui vicino.
 
-Valentina alza appena la testa dal libro, ma resta in silenzio.
+> Non lo ammetti, ma anche tu sei una green...
 
-Caterina si stringe le ginocchia.
+> Una green...
+
+Laura sorride, non ama le etichette ma neanche gli sprechi inutili.
+
+Un momento di silenzio. Il timer segna ancora qualche minuto. Laura si sposta vicino al lavello, Valentina continua a scrivere ma ogni tanto lancia uno sguardo furtivo verso Caterina.
+
+> Qualche problema con il viaggio?
+
+Laura la incalza, ma senza premere troppo. Caterina inspira piano.
 
 > Si vede così tanto?
 
-> Beh, sei entrata senza salutare… Non sei così. O meglio, non quando va tutto bene.
-
-Caterina estrae un foglio stampato e lo appoggia sul tavolo insieme ad alcuni messaggi. Li spinge lentamente verso Laura.
+Estrae un foglio stampato e lo appoggia sul tavolo insieme ad alcuni messaggi. Li spinge lentamente verso Laura.
 
 > È ufficiale.
 
@@ -48,89 +56,89 @@ Caterina estrae un foglio stampato e lo appoggia sul tavolo insieme ad alcuni me
 
 > Il visto. Non me lo danno.
 
-Valentina si ferma, la matita in aria. Laura scorre i messaggi e il foglio, poi li lascia lì, senza commentare.
+ Laura prende i fogli e li legge: poche righe, formali, uno di quei messaggi automatici che suonano uguali per tutti. La motivazione è vaga: “Non risultano soddisfatte le condizioni previste dall’articolo 214 del regolamento...”.
 
-> Vuoi che lo dica ad Alice? — chiede Valentina a bassa voce.
+> Ma non spiegano niente, solo frasi standard — mormora Laura.
 
-> No, Vale. Aspetta un po’, ok?
+> Lo so. Ho provato a scrivere all’ufficio visti, ma rispondono sempre uguale. “Per ulteriori informazioni rivolgersi a...”, e ti rimandano a un sito che ti rimanda a un altro modulo, e poi a un altro ancora.
 
-Valentina annuisce, resta in ascolto senza parlare.
+Laura posa i fogli.
 
-> Te l’aspettavi, vero?
+> Ti hanno detto almeno quale sarebbe il problema? In fondo lavori per la PetMicroRobot...
 
-> L’ho capito dal modo in cui hai sistemato la cucina.
+Caterina si stringe le mani una dentro l’altra, lo sguardo sfuggente.
 
-Laura sorride, sorpresa.
 
-> Tu metti ordine quando sei preoccupata. I piatti allineati, il canovaccio perfetto…
+> Forse...
+> Forse c’entra quella cosa di tre anni fa.
 
-Laura si sfiora il grembiule, una macchia vicino alla tasca.
+> Che cosa?
 
-> Non me ne ero mai accorta.
+Caterina esita. Poi, a bassa voce, quasi solo per Laura:
 
-> Scusami se sono arrivata così, un po’… nervosa.
+> La polizia municipale mi aveva identificata durante un sit-in per l’ambiente. Era solo una manifestazione, tranquilla, eravamo in venti sotto al municipio. Mi hanno chiesto i documenti, poi basta, non sono stata denunciata. Però... forse qualcosa è rimasto nei loro archivi.
 
-> Non lo sei stata, Cate. Sei solo delusa. È normale.
+Laura si appoggia con le mani al piano della cucina, annuisce piano.
 
-Caterina si irrigidisce.
+> Erano quegli anni in cui c’erano le leggi anti-protesta. Ricordo che sembrava assurdo, anche solo fermarsi in piazza era complicato.
+> Per fortuna ora protestare è di nuovo ammesso, almeno formalmente. Ma forse qualche traccia è rimasta in qualche database, magari in automatico.
 
-> Ma non ho fatto niente di male! Ho solo partecipato a un convegno. Perché devono punire proprio me?
+> Io non ho fatto nulla di male, Laura. Non c’è nessuna denuncia a mio carico. Ho controllato mille volte. Ma nel modulo per il visto ti chiedono se sei mai stata fermata a manifestazioni o eventi pubblici, e magari quello basta per far scattare qualche flag.
 
-> E poi per cosa, Laura? Mi hanno negato il visto solo perché sono andata a un convegno sui cambiamenti climatici. Lo sapevo che era rischioso, ma… credevo che servisse.
-> Ora mi sento esclusa, come se fossi pericolosa o troppo curiosa. Non è giusto.
+Laura si siede accanto a lei, in silenzio. Le mani intrecciate, lo sguardo rivolto fuori dalla finestra.
 
-Laura abbassa la fiamma.
+> Non è giusto.
+> E ora che fai?
 
-> Non stanno punendo te. È una macchina che decide. Un algoritmo.
+> Non lo so. Prima delle 24 posso presentare ricorso online, c’è un modulo. Ma mi sembra una presa in giro. Chiedono “ulteriori motivazioni o chiarimenti”, ma come faccio a chiarire qualcosa che nemmeno loro spiegano?
 
-> Un file bloccato. Una voce su una lista. Capisci cosa vuol dire?
+Laura riflette un attimo.
 
-> Sì. E so che è terribile. Ma non è personale, Cate.
+> Prova a scrivere comunque. Anche se non cambia nulla, almeno ci hai provato.
+> Potresti usare una formula generica, tipo “Desidero sottoporre a revisione la mia posizione in quanto, a mia conoscenza, non sussistono cause ostative né procedimenti pendenti a mio carico. Chiedo di verificare nuovamente la documentazione allegata e, se necessario, di specificare i motivi del diniego per consentirmi una replica puntuale.”
+> Qualcosa del genere.
 
-> Lo diventa, però, quando tocca a te.
+Caterina annuisce, quasi sollevata di avere almeno una traccia.
 
-Laura annuisce.
+> Ci provo.
+> Anche se non mi aspetto niente, almeno non lascio tutto così.
 
-Caterina si lascia andare contro la sedia.
+Il timer suona, secco. Laura si alza, scola la pasta, mescola il sugo. Valentina appare in cucina, si appoggia allo stipite della porta senza parlare. Laura riempie i piatti.
 
-> Ormai associo le mie crisi al tuo tagliere.
+> Vale, vieni? È pronto.
 
-Laura sorride.
+Valentina si siede accanto a Caterina eccitata dall'ospita a cena.
 
-> In che senso?
+> Oggi c’è la pasta più buona del solito, eh.
 
-> Io a pezzi, tu che sminuzzi verdure. Un classico.
 
-> Il tagliere ha visto tutte le nostre serate peggiori.
+Finiscono di cenare. Caterina sposta la forchetta sul piatto.
 
-Caterina sorride, più leggera:
+> Laura, grazie. So che posso venire qui quando sono in crisi. Sembra una sciocchezza, ma a volte stare qui mi rimette insieme.
 
-> Ma poi sono sempre passate, vero?
+> È reciproco, Cate.
+> E poi — aggiunge Laura, cercando di alleggerire — senza di te non saprei  finire 500g la pasta con il sugo di datterini.
 
-> Quella macchia non è mai andata via. Colpa mia. Come si fa ad appoggiarci la moka?
+Caterina sorride, la tensione si scioglie un poco.
 
-> Non preoccuparti. Nemmeno le ansie se ne vanno, ma si affievoliscono. Sei diligente, attenta. Si sistemerà anche questa volta.
+> Fra poco devo andare, però. Entro le 22 voglio essere a casa per quando rientra Ali.
 
-> Non abbastanza, forse.
+> Ti accompagno?
 
-Caterina guarda Valentina, che la osserva da dietro un libro.
+> No, resta con tua sorella.
+> Vado da sola, così penso a cosa scrivere nel ricorso.
 
-> Vale, vuoi un po’ di pasta anche tu?
+Si abbracciano forte. Laura la stringe e, nell’abbraccio la rassicura:
 
-> Sì! Ma solo se ce n’è per tutti.
+> Qualcosa la troviamo. In fondo insieme siamo uscite da un computer quantistico!
 
-Laura spegne il fuoco. Il profumo si diffonde, Valentina si avvicina.
+Caterina ride e la guarda negli occhi, grata.
 
-> Ecco che il sugo è pronto.
+> Hai ragione, non mi farà bloccare da un algoritmo!
 
-Caterina guarda l’orologio.
+Caterina si infila la giacca e raccoglie i fogli dal tavolo.
 
-> Sono già le 20… Devo tornare per le 22, Alice rientra a quell’ora.
+> Grazie davvero.
 
-> Allora mangiamo in fretta, se vuoi.
-
-Caterina sorride.
-
-> Sì, va bene. Adesso ho un po’ più fame.
-
+> Mandami un messaggio quando arrivi a casa, così so che va tutto bene.
 
