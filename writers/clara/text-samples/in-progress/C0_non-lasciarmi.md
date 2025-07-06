@@ -137,12 +137,12 @@ Laura percepisce la difficoltà dell'amica ma non perde la vena un po’ entusia
 
 > Comunque… magari adesso sembra una cosa brutta, ma a volte anche un piccolo “abbandono” può servire. Cioè, magari per Alice sarà una specie di scossa—non dico che non soffra, anzi, però certe volte è proprio in quelle crepe lì che poi uno capisce qualcosa di sé, tipo… boh, una mini catarsi? Forse ti sembra crudele detto così, però sai che intendo, no?
 
-Si ferma, incerta se continuare ma riprende subito il filo,rincorre un pensiero che scalpita:
+Si ferma, incerta se continuare ma riprende subito il filo. Poi riprene e rincorre un pensiero che scalpita:
 
-> uno dei problemi più interessanti di queste priodi è come muovono i segnali nel cervello. Come le emozioni e i pensieri saltano da una parte all’altra, come in una rete viva che a volte va in tilt, a volte trova nuovi equilibri. Stanno cercando di mettere tutto in modelli, con le equazioni e tutto quanto, per spiegare la brain dynamics… È come se il nostro cervello fosse sempre sul punto di cambiare forma, e questo rende ogni momento, anche quelli che sembrano un disastro, pieni di possibilità...
+> uno dei problemi più interessanti di questo priodo è come si muovono i segnali nel cervello. Come le emozioni e i pensieri saltano da una parte all’altra, come in una rete viva che a volte va in tilt, a volte trova nuovi equilibri. Stanno cercando dei nuovi modelli, anche quantistici, per spiegare la brain dynamics… È come se il nostro cervello fosse sempre sul punto di cambiare forma, e questo rende ogni momento, anche quelli che sembrano un disastro, pieni di possibilità...
 
-Rimane in silenzio un attimo, poi aggiunge con un sorriso più quieto:
+Caterina rimane in silenzio un attimo, poi aggiunge con un sorriso più quieto:
 
 > Sei sempre la stessa Laura... ogni cosa finice in fisica
 
-Intanto si fanno le 18 e Laura deve passare a prendere Valentina e poi preparare la cena. Saluta e lascia Caterina a finire di preparare la valigia. Tra due giorni partirà per New York.
+Intanto si fanno le 18 e Laura deve passare a prendere la sua sorellina e poi preparare la cena. Saluta e lascia Caterina a finire di preparare la valigia. Tra due giorni partirà per New York.
