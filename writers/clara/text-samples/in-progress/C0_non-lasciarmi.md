@@ -1,6 +1,5 @@
-Alice è seduta davanti al portatile.
-Ha aperto una nuova traccia su Suno.
-Scrive lentamente il testo del prompt. Una canzone, un modo per stare lì, una scorciatoia per dire qualcosa senza doverla spiegare.
+Alice è seduta davanti al portatile, ha aperto una nuova traccia su Suno e scrive lentamente il testo del prompt. Una canzone, un modo per stare lì, una scorciatoia per dire qualcosa senza doverla spiegare.
+
 🎛 Style Description (max 200 characters):
 Bilingual emotional synth-pop with ambient textures, cinematic flow, and AI female vocals. Slow build. Glitchy, dreamlike, bittersweet. Like diary pages sung in code.
 
@@ -22,16 +21,15 @@ Poi:
     plastic love, three settings
     warm, cold, ambient—mine is blinking
 
-Non capisce bene se sta scrivendo per se stessa o per lei.
-Ma non importa.
+Non capisce bene se sta scrivendo per se stessa o per Caterina, ma non importa.
 Il sistema genera la traccia: synth dolce, voce diafana.
 Alice la ascolta tre volte nelle sue cuffiette. Poi clicca download.
 E intitola il file 🎵: Don’t Forget the Little Sister
 
 
-Alice ha solo 15 anni. Troppo giovane per capire che non è sempre una questione di presenza o assenza. La presenza della sorella hanno la consistenza del cartone bagnato: fragil e fastidioso.
+Alice ha solo 15 anni. Troppo giovane per capire che non è sempre una questione di presenza o assenza.
 
-> Ali, staò via solo una settimana, non tenermi il muso
+> Ali, starò via solo una settimana, non tenermi il muso
 
 > Non ti sto tenendo il muso. Poi è giusto, il tuo fidanzato è più importante di tua sorella
 
@@ -41,30 +39,22 @@ Alice ha solo 15 anni. Troppo giovane per capire che non è sempre una questione
 
 Gli occhi di Caterina si fissano nel vuoto. La domanda è disturbante. La risposta non è univoca. **Non è una domanda da logica binaria, ma da interpretazione quantistica: si può rispondere solo collassando in una versione di sé.**
 Non c'è certezza nel cuore. Ma c’è certezza di volontà: riuscire, completare. Non fallire.
-
 Caterina sospira. Una sorella è un'altra te che fa domande che non si dovrebbero fare.
 
 
 
 Mentre attende che SUNO processi il suo prompt, accende e spegne la lampada.
-Una lampada fatta a cuore. Un regalo di Mark per il suo amore.
-**Plastica rosa opaca, luce LED, tre modalità.**
-Luce calda. Luce fredda. Luce ambiente. **Luce interrogativa.**
-**Come se potesse, con la temperatura della luce, trovare la risposta giusta.**
+Una lampada fatta a cuore, un regalo di Mark per Caterina.
+Plastica rosa opaca, luce LED, tre modalità. Luce calda. Luce fredda. Luce ambiente. Luce interrogativa.
+Come se potesse, con la temperatura della luce, trovare la risposta giusta.
 
-Ma Mark non ha interrogativi.
-**Lui è vettoriale. Avanza. È sempre stato così.**
-Caterina lo sa, ed è questo che ora le pesa: **non sapere più se seguire è una forma di amore o di inerzia.**
+Ma Mark non ha interrogativi. Avanza. È sempre stato così.
+Caterina lo sa, ed è questo che le pesava: non saper distinguere tra amore e inerzia.
 
-Caterina prova ad ignorare la sorella.
-**Le sta addosso da un’ora, come il peso di un cuscino quando non vuoi dormire.**
-Il loro amore è anche attrito.
-Non scontro.
-**Sabbia nelle scarpe: fastidio continuo, ma non abbastanza per fermarti.**
+Caterina prova ad ignorare la sorella che in un modo o nell'altro le sta addosso da un’ora. Per fortuna  non sono sole, c'è anche Laura. 
 
-
+SUNO finisce di processare il brano.
 > Perfetta! Ascoltate
-
 
 *(Verse)*  
 She leaves and I stay  
@@ -107,12 +97,17 @@ I wrote this with Suno
 not because I sing,  
 but because words break  
 and music doesn’t blink
- 
+
+ Laura ascolta con attenzione:
 > Hei, davvero toccante. Immagino che ora tua sorella partirà a cuor leggero
 > Infatti, grazie Alice, era quello che mi serviva
 
+> Ma quante storie che fate! E' solo una canzone. Poi starò benissimo con mamma e papà tutti per me. Senti, ci sono le mie amiche, posso uscire?
+> Hai chiesto alla mamma?
+> Si, ha detto che potevo uscire se stava bene a te?
+> Va bene dai, non fare tardi
 
-> Ma quante storie che fate! E' solo una canzone. Poi starò benissimo con mamma e papà tutti per me 
+Alice esce. Caterina continua a preparare la valigia.
  
 Alice guarda la sorella che improvvisamente non parla più, o meglio: **parla in un altro linguaggio**, uno che non ha bisogno di suoni. Parlano per lei **le contrazioni del diaframma, le pupille che non mettono più a fuoco**, i piccoli spasmi del mento. **Parla la pelle attorno alla bocca, che si irrigidisce. Parlano i muscoli delle mani, aggrappati al bordo del letto come se potessero trattenerla lì, in quel momento.** La delusione ha una voce che non si sente: **è il battito che accelera senza fiato, è il modo in cui il respiro non arriva fino in fondo.**
 
