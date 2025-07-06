@@ -100,12 +100,16 @@ and music doesn’t blink
 
  Laura ascolta con attenzione:
 > Hei, davvero toccante. Immagino che ora tua sorella partirà a cuor leggero
+
 > Infatti, grazie Alice, era quello che mi serviva
 
 > Ma quante storie che fate! E' solo una canzone. Poi starò benissimo con mamma e papà tutti per me. Senti, ci sono le mie amiche, posso uscire?
+
 > Hai chiesto alla mamma?
+
 > Si, ha detto che potevo uscire se stava bene a te?
-> Va bene dai, non fare tardi
+
+> Va bene dai, non fare tardi. Massimo alle 22. OK?
 
 Alice esce. Caterina continua a preparare la valigia, ma la canzone della sorella l'ha turbata:
 
