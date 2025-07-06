@@ -29,7 +29,10 @@ E intitola il file: “Don't Forget the Little Sister”.
 🎛 Style Description (max 200 characters):
 Bilingual emotional synth-pop with ambient textures, cinematic flow, and AI female vocals. Slow build. Glitchy, dreamlike, bittersweet. Like diary pages sung in code.
 
-🎤 Lyrics:
+🎤 Lyrics:...
+
+> Perfetta! Ascoltate
+
 
 *(Verse)*  
 She leaves and I stay  
@@ -73,7 +76,9 @@ not because I sing,
 but because words break  
 and music doesn’t blink
  
+> Hei, davvero toccante. Immagino che ora tua sorella partirà a cuor leggero
 
+Laura scherza e osserva Caterina. 
  
 Alice guarda la sorella che improvvisamente non parla più, o meglio: **parla in un altro linguaggio**, uno che non ha bisogno di suoni. Parlano per lei **le contrazioni del diaframma, le pupille che non mettono più a fuoco**, i piccoli spasmi del mento. **Parla la pelle attorno alla bocca, che si irrigidisce. Parlano i muscoli delle mani, aggrappati al bordo del letto come se potessero trattenerla lì, in quel momento.** La delusione ha una voce che non si sente: **è il battito che accelera senza fiato, è il modo in cui il respiro non arriva fino in fondo.**
 
