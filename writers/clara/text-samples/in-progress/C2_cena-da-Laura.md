@@ -1,168 +1,136 @@
 ## A cena da Laura
 
-> Ancora nove minuti
+> Ancora nove minuti.
 
-dice Laura, sfiorando appena il timer con le dita.
+Laura sfiora il timer con le dita. In cucina si sente profumo di sugo.
+
+La porta si apre senza preavviso. Caterina entra, silenziosa, lo sguardo basso. Rocky scodinzola e si avvicina a lei.
+
+> Ciao… scusa se arrivo così, non ho avvisato.
+
+> Non serve avvisare, Cate.
+
+Valentina, seduta al tavolo con i quaderni aperti, segue la scena in silenzio, solo uno sguardo rapido e poi torna ai compiti.
 
 > Posso spegnere prima se hai fretta.
 
-> No, aspettiamo
-
-risponde Caterina in tono sommesso.
-
+> No, aspettiamo.
 > Non ho molta fame adesso.
 
-> Magari un po’ più cotto non è male
+Laura prova un sorriso, il tono morbido.
 
-dice Laura con voce morbida, tentando un sorriso cauto.
-
+> Magari un po’ più cotto non è male.
 > Il mio sugo fa miracoli, lo sai.
 
 > Lo so, lo sento dall’odore. Cipolla e prezzemolo, vero?
 
-> Pomodoro, cipolla, prezzemolo... un pizzico di sale
+> Pomodoro, cipolla, prezzemolo… un pizzico di sale.
 
-elenca Laura.
+Caterina si siede, Rocky ai suoi piedi, tranquillo.
 
-> È più semplice del solito...
+> Anche Rocky sembra capirlo. Guarda com’è calmo oggi.
 
-Caterina sospira piano, osservando qualcosa di lontano oltre il bancone.
+> Forse ti sente un po’ delusa.
 
-> Anche Rocky sembra pensarlo. Guarda com’è tranquillo oggi.
+Valentina alza appena la testa dal libro, ma resta in silenzio.
 
-> Forse ti sente un po' delusa
-
-replica Laura, osservando il cane che tiene il muso appoggiato alle scarpe di Caterina.
-
-> Fa sempre così quando qualcuno sta male.
-
-Caterina si stringe ancora di più le ginocchia al petto.
+Caterina si stringe le ginocchia.
 
 > Si vede così tanto?
 
-> Beh, sei entrata senza salutare
+> Beh, sei entrata senza salutare… Non sei così. O meglio, non quando va tutto bene.
 
-risponde Laura con un sorriso leggermente imbarazzato, abbassando lo sguardo verso il grembiule.
+Caterina estrae un foglio stampato e lo appoggia sul tavolo insieme ad alcuni messaggi. Li spinge lentamente verso Laura.
 
-> Non sei così. O meglio, non quando va tutto bene.
+> È ufficiale.
 
-> È ufficiale
+> Che cosa?
 
-dice Caterina, tendendo il telefono verso Laura.
+> Il visto. Non me lo danno.
 
-> Non mi fanno entrare. Vuoi leggerla tu?
+Valentina si ferma, la matita in aria. Laura scorre i messaggi e il foglio, poi li lascia lì, senza commentare.
 
-Laura prende il telefono, legge velocemente e lo restituisce senza commentare.
+> Vuoi che lo dica ad Alice? — chiede Valentina a bassa voce.
+
+> No, Vale. Aspetta un po’, ok?
+
+Valentina annuisce, resta in ascolto senza parlare.
 
 > Te l’aspettavi, vero?
 
-chiede Caterina con un filo di voce ansiosa.
+> L’ho capito dal modo in cui hai sistemato la cucina.
 
-> L’ho capito dal modo in cui hai riordinato tutto.
+Laura sorride, sorpresa.
 
-Laura alza un sopracciglio sorpresa.
+> Tu metti ordine quando sei preoccupata. I piatti allineati, il canovaccio perfetto…
 
-> Davvero
-
-insiste Caterina, alzando leggermente la testa.
-
-> Tu metti ordine quando sei preoccupata. Lo fai ogni volta. I piatti allineati come in un ristorante, l’asciugamano perfettamente appeso...
-
-Laura sospira dolcemente, sfiorando il grembiule macchiato vicino alla tasca destra.
+Laura si sfiora il grembiule, una macchia vicino alla tasca.
 
 > Non me ne ero mai accorta.
 
-> Scusami, non volevo essere nervosa con te.
+> Scusami se sono arrivata così, un po’… nervosa.
 
-> Non lo sei stata
+> Non lo sei stata, Cate. Sei solo delusa. È normale.
 
-replica Laura con tono rassicurante.
+Caterina si irrigidisce.
 
-> Sei solo delusa. È normale.
+> Ma non ho fatto niente di male! Ho solo partecipato a un convegno. Perché devono punire proprio me?
 
-> Ma non ho fatto nulla di male!
+> E poi per cosa, Laura? Mi hanno negato il visto solo perché sono andata a un convegno sui cambiamenti climatici. Lo sapevo che era rischioso, ma… credevo che servisse.
+> Ora mi sento esclusa, come se fossi pericolosa o troppo curiosa. Non è giusto.
 
-sbotta Caterina, trattenendo subito dopo la voce come spaventata da se stessa.
+Laura abbassa la fiamma.
 
-> Ho partecipato ad un convegno diamine! Perché devono punire proprio me?
+> Non stanno punendo te. È una macchina che decide. Un algoritmo.
 
-> E poi per cosa, Laura? Mi hanno negato il visto solo perché  sono andata ad convegno sui cambiamenti climatici. Mi avevano avvisata che era rischioso esporsi così apertamente, ma io credevo... anzi, credo ancora che fosse necessario esserci. È così assurdo, così ingiusto! Io ci credo davvero, non ero lì per fare polemica o chissà cos’altro. Volevo solo capire, informarmi, dare il mio contributo.
-> Adesso invece mi ritrovo giudicata, schedatacome fossi chissà quale estremista! Mi sento ingenua, stupida per aver pensato che tutto questo non avrebbe avuto conseguenze. Non è giusto essere punita solo perché ho voluto partecipare, perché ho espresso il mio interesse per un problema che riguarda tutti noi. Non è giusto essere marchiata così, essere esclusa senza nemmeno poter spiegare chi sono davvero, cosa penso, cosa sento.
-> Possibile che non importi nulla di me, delle mie ragioni? Mi stanno trattando come un numero, un file compromesso. Io non sono solo un algoritmo, Laura. Non lo sono.
+> Un file bloccato. Una voce su una lista. Capisci cosa vuol dire?
 
-Laura abbassa lentamente la fiamma sotto la pentola.
+> Sì. E so che è terribile. Ma non è personale, Cate.
 
-> Non stanno punendo te. Sta decidendo una macchina.
+> Lo diventa, però, quando tocca a te.
 
-> Una macchina che decide della mia vita
+Laura annuisce.
 
-ripete Caterina, la voce tremante.
+Caterina si lascia andare contro la sedia.
 
-> Un algoritmo, un file bloccato. Capisci cosa vuol dire?
+> Ormai associo le mie crisi al tuo tagliere.
 
-> Lo capisco
+Laura sorride.
 
-risponde Laura con calma.
+> In che senso?
 
-> Ed è terribile. Non sto minimizzando. Dico solo che non è personale. E quindi...
+> Io a pezzi, tu che sminuzzi verdure. Un classico.
 
-Caterina alza gli occhi verso Laura, un’ombra di irritazione che svanisce rapidamente.
+> Il tagliere ha visto tutte le nostre serate peggiori.
 
-> Ma diventa personale quando capita a me!
-
-> Hai ragione
-
-conferma Laura.
-
-Caterina resta in silenzio, guardando Laura sminuzzare le verdure fresche  sul tagliere.
-
-> Ormai associo le mie crisi al tuo tagliere
-
-Laura sorride: > in che senso?
-
-> Mi sembra uno schema noto: io a pezzi e tu che sminuzzi! Quante volte mi hai consolato mentre preparavi la cena?
-
-> Non lo so. Tante, credo. In effetti il tagliere ha visto tutte le nostre serate peggiori.
+Caterina sorride, più leggera:
 
 > Ma poi sono sempre passate, vero?
 
-domanda  piano, osservando ancora l’oggetto.
+> Quella macchia non è mai andata via. Colpa mia. Come si fa ad appoggiarci la moka?
 
-> Quella macchia  non è mai andata via. Colpa mia! Come si fa ad appoggiarci la moka?
+> Non preoccuparti. Nemmeno le ansie se ne vanno, ma si affievoliscono. Sei diligente, attenta. Si sistemerà anche questa volta.
 
-> Non preoccuparti. Comunque nemmeno le nostre ansie se ne vanno mai del tutto. Però si affievoliscono, Cate. Tu fai sempre tutto giusto, sei diligente, attenta. Stai tranquilla, si sistemerà anche questa.
+> Non abbastanza, forse.
 
-> Non abbastanza attenta, evidentemente
+Caterina guarda Valentina, che la osserva da dietro un libro.
 
-replica Caterina, fissando ancora il pavimento.
+> Vale, vuoi un po’ di pasta anche tu?
 
-> Mi sento stupida, esposta, giudicata da tutti.
+> Sì! Ma solo se ce n’è per tutti.
 
-> Cate, qui siamo solo io, te, e Rocky
-
-la interrompe Laura con voce ferma ma calda.
-
-> Non c’è nessuno che ti giudica.
-
-> Non è mai davvero così semplice per me
-
-sospira Caterina.
-
-> Lo sai.
-
-Laura annuisce comprensiva. Caterina torna a guardare la pentola, i suoi occhi si fermano sul vapore che si alza lento.
-
-> Stai bene con il grembiule
-
-risponde Caterina più rilassata.
-
-> Sembri una cuoca professionista.
-
-Laura guarda verso il basso, arrossendo leggermente.
+Laura spegne il fuoco. Il profumo si diffonde, Valentina si avvicina.
 
 > Ecco che il sugo è pronto.
 
-> Benissimo. E adesso ho un po’ più fame.
+Caterina guarda l’orologio.
 
-> Bene, allora mangiamo.
+> Sono già le 20… Devo tornare per le 22, Alice rientra a quell’ora.
+
+> Allora mangiamo in fretta, se vuoi.
+
+Caterina sorride.
+
+> Sì, va bene. Adesso ho un po’ più fame.
+
 
