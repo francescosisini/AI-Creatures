@@ -31,6 +31,40 @@ Bilingual emotional synth-pop with ambient textures, cinematic flow, and AI fema
 
 🎤 Lyrics:...
 
+Alice ha solo 15 anni. Troppo giovane per capire che non è sempre una questione di presenza o assenza. La presenza della sorella hanno la consistenza del cartone bagnato: fragil e fastidioso.
+
+> Ali, staò via solo una settimana, non tenermi il muso
+
+> Non ti sto tenendo il muso. Poi è giusto, il tuo fidanzato è più importante di tua sorella
+
+> E' un'opportunità per rilanciare il nostro rapporto. Vederci in un altro contesto
+
+> Siete in crisi? Ti piace un altro?
+
+Gli occhi di Caterina si fissano nel vuoto. La domanda è disturbante. La risposta non è univoca. **Non è una domanda da logica binaria, ma da interpretazione quantistica: si può rispondere solo collassando in una versione di sé.**
+Non c'è certezza nel cuore. Ma c’è certezza di volontà: riuscire, completare. Non fallire.
+
+Caterina sospira. Una sorella è un'altra te che fa domande che non si dovrebbero fare.
+
+
+
+Mentre attende che SUNO processi il suo prompt, accende e spegne la lampada.
+Una lampada fatta a cuore. Un regalo di Mark per il suo amore.
+**Plastica rosa opaca, luce LED, tre modalità.**
+Luce calda. Luce fredda. Luce ambiente. **Luce interrogativa.**
+**Come se potesse, con la temperatura della luce, trovare la risposta giusta.**
+
+Ma Mark non ha interrogativi.
+**Lui è vettoriale. Avanza. È sempre stato così.**
+Caterina lo sa, ed è questo che ora le pesa: **non sapere più se seguire è una forma di amore o di inerzia.**
+
+Caterina prova ad ignorare la sorella.
+**Le sta addosso da un’ora, come il peso di un cuscino quando non vuoi dormire.**
+Il loro amore è anche attrito.
+Non scontro.
+**Sabbia nelle scarpe: fastidio continuo, ma non abbastanza per fermarti.**
+
+
 > Perfetta! Ascoltate
 
 
@@ -77,8 +111,10 @@ but because words break
 and music doesn’t blink
  
 > Hei, davvero toccante. Immagino che ora tua sorella partirà a cuor leggero
+> Infatti, grazie Alice, era quello che mi serviva
 
-Laura scherza e osserva Caterina. 
+
+> Ma quante storie che fate! E' solo una canzone. Poi starò benissimo con mamma e papà tutti per me 
  
 Alice guarda la sorella che improvvisamente non parla più, o meglio: **parla in un altro linguaggio**, uno che non ha bisogno di suoni. Parlano per lei **le contrazioni del diaframma, le pupille che non mettono più a fuoco**, i piccoli spasmi del mento. **Parla la pelle attorno alla bocca, che si irrigidisce. Parlano i muscoli delle mani, aggrappati al bordo del letto come se potessero trattenerla lì, in quel momento.** La delusione ha una voce che non si sente: **è il battito che accelera senza fiato, è il modo in cui il respiro non arriva fino in fondo.**
 
@@ -112,42 +148,7 @@ L’ambasciata USA Online ha risposto: “Denied”.
 
 > Prova Cate! Mark ti aspetta, non puoi lasciarlo lì da solo. Ti immagini se non ti trova all'aeroporto?
 
-Caterina la guarda. Alice ha solo 15 anni.
-**Troppo giovane per capire che non è sempre una questione di presenza o assenza.**
-Le parole della sorella hanno la consistenza del cartone bagnato: fragili, ma fastidiose.
-
-> Ali, lo avvertirei, non è quello il problema
-
-> Spiegami. Se me lo spieghi capisco
-
-> Era un'opportunità per rilanciare il nostro rapporto. Vederci in un altro contesto
-
-> Siete in crisi? Ti piace un altro?
-
-Gli occhi di Caterina si fissano nel vuoto. La domanda è disturbante. La risposta non è univoca. **Non è una domanda da logica binaria, ma da interpretazione quantistica: si può rispondere solo collassando in una versione di sé.**
-Non c'è certezza nel cuore. Ma c’è certezza di volontà: riuscire, completare. Non fallire.
-
-Caterina sospira. Una sorella è un'altra te che fa domande che non si dovrebbero fare.
-
-> ok, inoltro la domanda, ma ho poca fiducia che serva a qualcosa
-
-L’indomani, l’oracolo risponderà. Alle 08:00 UTC-5.
-
-Alice accende e spegne la lampada.
-Una lampada fatta a cuore. Un regalo di Mark per il suo amore.
-**Plastica rosa opaca, luce LED, tre modalità.**
-Luce calda. Luce fredda. Luce ambiente. **Luce interrogativa.**
-**Come se potesse, con la temperatura della luce, trovare la risposta giusta.**
-
-Ma Mark non ha interrogativi.
-**Lui è vettoriale. Avanza. È sempre stato così.**
-Caterina lo sa, ed è questo che ora le pesa: **non sapere più se seguire è una forma di amore o di inerzia.**
-
-Caterina prova ad ignorare la sorella.
-**Le sta addosso da un’ora, come il peso di un cuscino quando non vuoi dormire.**
-Il loro amore è anche attrito.
-Non scontro.
-**Sabbia nelle scarpe: fastidio continuo, ma non abbastanza per fermarti.**
+Caterina la guarda. 
 
 Ci riesce. La ignora.
 Nella mente scorrono rapide vecchie foto.
