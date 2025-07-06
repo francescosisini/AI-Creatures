@@ -23,7 +23,7 @@ Poi:
 
 Non capisce bene se sta scrivendo per se stessa o per Caterina, ma non importa.
 Il sistema genera la traccia: synth dolce, voce diafana.
-Alice la ascolta tre volte nelle sue cuffiette. Poi clicca download.
+Alice la ascolta tre volte nelle sue cuffiette. Poi clicca **Create**.
 E intitola il file 🎵: Don’t Forget the Little Sister
 
 
