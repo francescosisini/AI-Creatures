@@ -1,6 +1,10 @@
 Alice è seduta davanti al portatile.
 Ha aperto una nuova traccia su Suno.
 Scrive lentamente il testo del prompt. Una canzone, un modo per stare lì, una scorciatoia per dire qualcosa senza doverla spiegare.
+🎛 Style Description (max 200 characters):
+Bilingual emotional synth-pop with ambient textures, cinematic flow, and AI female vocals. Slow build. Glitchy, dreamlike, bittersweet. Like diary pages sung in code.
+
+🎤 Lyrics:...
 
 Scrive:
 
@@ -21,15 +25,9 @@ Poi:
 Non capisce bene se sta scrivendo per se stessa o per lei.
 Ma non importa.
 Il sistema genera la traccia: synth dolce, voce diafana.
-Alice la ascolta tre volte. Poi clicca download.
-E intitola il file: “Don't Forget the Little Sister”.
+Alice la ascolta tre volte nelle sue cuffiette. Poi clicca download.
+E intitola il file 🎵: Don’t Forget the Little Sister
 
-🎵 Title: Don’t Forget the Little Sister
-
-🎛 Style Description (max 200 characters):
-Bilingual emotional synth-pop with ambient textures, cinematic flow, and AI female vocals. Slow build. Glitchy, dreamlike, bittersweet. Like diary pages sung in code.
-
-🎤 Lyrics:...
 
 Alice ha solo 15 anni. Troppo giovane per capire che non è sempre una questione di presenza o assenza. La presenza della sorella hanno la consistenza del cartone bagnato: fragil e fastidioso.
 
