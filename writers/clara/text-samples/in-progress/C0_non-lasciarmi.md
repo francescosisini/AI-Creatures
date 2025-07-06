@@ -107,7 +107,42 @@ and music doesn’t blink
 > Si, ha detto che potevo uscire se stava bene a te?
 > Va bene dai, non fare tardi
 
-Alice esce. Caterina continua a preparare la valigia.
+Alice esce. Caterina continua a preparare la valigia, ma la canzone della sorella l'ha turbata:
+
+> E' così difficile Laura! Mia madre che mi chiede di tenerla un po' con me per i suoi problemi con mio padre, lei che mi tratta come se l'abbandonassi
+
+> I tuoi hanno smesso di litigare?
+
+> Quasi... credo che il peggio sia passato
+
+> Alice è adolescente, anche tu lo sarai stata!
+
+
+> Sì ma ero diversa
+
+Laura si siede vicino, si sfrega  le mani sui jeans, poi parte senza troppi filtri:
+
+> Sai che a volte mi incarto e magari parlo troppo… Però davvero, ci pensavo l’altro giorno: dal punto di vista “matematico”, il cervello in adolescenza si comporta come un  sistema caotico, cioè, non nel senso di casino, ma proprio caotico in senso fisico, dove basta un piccolissimo cambiamento e tutto prende una piega diversa. È come vivere sempre su una soglia, tra il disordine e l’equilibrio, e quindi ogni emozione arriva a mille, ogni cosa sembra enorme… Oddio, non so se mi sto spiegando. Comunque l'adolescenza è anche utile: cioè, in quel disordine si trova anche la  strada. Non devi per forza riuscire a capirla sempre, magari basta solo starle accanto anche quando sembra fuori fase. 
+
+Caterina la guarda, sorride di lato, più distesa.
+
+> Però come posso aiutrla se pensa che l'abbandoni
+
+
+Laura percepisce la difficoltà dell'amica ma non perde la vena un po’ entusiasta della sua speculazione:
+
+> Comunque… magari adesso sembra una cosa brutta, ma a volte anche un piccolo “abbandono” può servire. Cioè, magari per Alice sarà una specie di scossa—non dico che non soffra, anzi, però certe volte è proprio in quelle crepe lì che poi uno capisce qualcosa di sé, tipo… boh, una mini catarsi? Forse ti sembra crudele detto così, però sai che intendo, no?
+
+Si ferma, incerta se continuare ma riprende subito il filo,rincorre un pensiero che scalpita:
+
+> uno dei problemi più interessanti di queste priodi è come muovono i segnali nel cervello. Come le emozioni e i pensieri saltano da una parte all’altra, come in una rete viva che a volte va in tilt, a volte trova nuovi equilibri. Stanno cercando di mettere tutto in modelli, con le equazioni e tutto quanto, per spiegare la brain dynamics… È come se il nostro cervello fosse sempre sul punto di cambiare forma, e questo rende ogni momento, anche quelli che sembrano un disastro, pieni di possibilità...
+
+Rimane in silenzio un attimo, poi aggiunge con un sorriso più quieto:
+
+> Sei sempre la stessa Laura... ogni cosa finice in fisica
+
+
+
  
 Alice guarda la sorella che improvvisamente non parla più, o meglio: **parla in un altro linguaggio**, uno che non ha bisogno di suoni. Parlano per lei **le contrazioni del diaframma, le pupille che non mettono più a fuoco**, i piccoli spasmi del mento. **Parla la pelle attorno alla bocca, che si irrigidisce. Parlano i muscoli delle mani, aggrappati al bordo del letto come se potessero trattenerla lì, in quel momento.** La delusione ha una voce che non si sente: **è il battito che accelera senza fiato, è il modo in cui il respiro non arriva fino in fondo.**
 
